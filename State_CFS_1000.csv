@@ -1,0 +1,1001 @@
+GEOTYPE,ST,GEO_ID,GEO_TTL,GEO_ID_F,DDESTGEO,DDESTGEO_TTL,COMM,COMM_TTL,DMODE,DMODE_TTL,YEAR,VAL,VAL_F,TON,TON_F,TMILE,TMILE_F,AVGMILE,AVGMILE_F,VAL_S,VAL_S_F,TON_S,TON_S_F,TMILE_S,TMILE_S_F,AVGMILE_S,AVGMILE_S_F
+2,29,0400000US29,Missouri,,0400000US17,Illinois,7,Other prepared foodstuffs and fats and oils,3,Truck,2017,537,,230,,71,,144,,34.7,,15.8,,21.7,,30.3,
+2,33,0400000US33,New Hampshire,,0400000US09,Connecticut,26,Wood products,2,Single modes,2017,10,,17,,3,,154,,49.9,,31.9,,25.9,,14.2,
+2,32,0400000US32,Nevada,,0400000US42,Pennsylvania,13,"Other non-metallic minerals, not elsewhere classified",1,All modes,2017,6,,38,,130,,3077,,17.3,,40.8,,44.4,,7.3,
+2,47,0400000US47,Tennessee,,0400000US02,Alaska,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,3517,,0.0,S,0.0,S,0.0,S,1.4,
+2,40,0400000US40,Oklahoma,,0400000US08,Colorado,24,Plastics and rubber,13,Multiple modes,2017,4,,0,Z,0,Z,701,,37.8,,30.7,,32.7,,1.9,
+2,16,0400000US16,Idaho,,0400000US45,South Carolina,43,Mixed freight,4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,8,0400000US08,Colorado,,0400000US09,Connecticut,7,Other prepared foodstuffs and fats and oils,3,Truck,2017,3,,0,S,0,S,1896,,45.8,,0.0,S,0.0,S,1.5,
+2,40,0400000US40,Oklahoma,,0400000US06,California,27,"Pulp, newsprint, paper, and paperboard",15,Truck and rail,2017,139,,252,,476,,1860,,41.5,,40.5,,40.3,,2.4,
+2,1,0400000US01,Alabama,,0400000US33,New Hampshire,21,Pharmaceutical products,1,All modes,2017,0,S,0,Z,0,Z,1400,,0.0,S,45.2,,45.2,,1.2,
+2,16,0400000US16,Idaho,,0400000US33,New Hampshire,0,All Commodities,4,For-hire truck,2017,3,,0,S,0,S,2685,,46.9,,0.0,S,0.0,S,3.0,
+2,20,0400000US20,Kansas,,0400000US16,Idaho,20,Basic chemicals,4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,41,0400000US41,Oregon,,0400000US50,Vermont,43,Mixed freight,4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,54,0400000US54,West Virginia,,0400000US30,Montana,40,Miscellaneous manufactured products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,45,0400000US45,South Carolina,,0400000US24,Maryland,0,All Commodities,13,Multiple modes,2017,306,,156,,104,,504,,18.9,,34.6,,33.2,,1.2,
+2,1,0400000US01,Alabama,,0400000US33,New Hampshire,38,Precision instruments and apparatus,11,Air (incl truck and air),2017,0,S,0,Z,0,Z,1415,,0.0,S,24.9,,26.4,,1.6,
+2,2,0400000US02,Alaska,,0400000US12,Florida,40,Miscellaneous manufactured products,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,5,0400000US05,Arkansas,,0400000US38,North Dakota,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,18,0400000US18,Indiana,,0400000US06,California,7,Other prepared foodstuffs and fats and oils,13,Multiple modes,2017,46,,0,S,0,S,2190,,41.1,,0.0,S,0.0,S,2.3,
+2,12,0400000US12,Florida,,0400000US42,Pennsylvania,41,Waste and scrap,4,For-hire truck,2017,5,,2,,2,,956,,29.7,,49.2,,44.5,,4.2,
+2,34,0400000US34,New Jersey,,0400000US21,Kentucky,23,"Other chemical products and preparations, not elsewhere classified",1,All modes,2017,438,,29,,21,,727,,34.2,,40.8,,39.9,,5.0,
+2,18,0400000US18,Indiana,,0400000US34,New Jersey,38,Precision instruments and apparatus,4,For-hire truck,2017,89,,1,,1,,679,,39.9,,37.1,,38.4,,1.9,
+2,40,0400000US40,Oklahoma,,0400000US13,Georgia,41,Waste and scrap,4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,24,0400000US24,Maryland,,0400000US02,Alaska,38,Precision instruments and apparatus,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,29,0400000US29,Missouri,,0400000US09,Connecticut,23,"Other chemical products and preparations, not elsewhere classified",14,"Parcel, U.S.P.S. or courier",2017,0,Z,0,Z,0,Z,1343,,49.4,,40.0,,41.8,,6.8,
+2,26,0400000US26,Michigan,,0400000US54,West Virginia,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",2,Single modes,2017,25,,3,,0,S,482,,44.3,,46.4,,0.0,S,12.6,
+2,23,0400000US23,Maine,,0400000US06,California,28,Paper or paperboard articles,1,All modes,2017,0,S,0,S,0,S,3353,,0.0,S,0.0,S,0.0,S,3.9,
+2,29,0400000US29,Missouri,,0400000US45,South Carolina,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,3,,0,S,0,S,920,,37.7,,0.0,S,0.0,S,4.2,
+2,12,0400000US12,Florida,,0400000US08,Colorado,29,Printed products,4,For-hire truck,2017,0,S,1,,2,,2115,,0.0,S,45.5,,35.5,,6.6,
+2,24,0400000US24,Maryland,,0400000US20,Kansas,34,Machinery,13,Multiple modes,2017,0,S,0,S,0,S,992,,0.0,S,0.0,S,0.0,S,11.1,
+2,35,0400000US35,New Mexico,,0400000US38,North Dakota,30,"Textiles, leather, and articles of textiles or leather",13,Multiple modes,2017,0,S,0,S,0,S,1343,,0.0,S,0.0,S,0.0,S,11.3,
+2,37,0400000US37,North Carolina,,0400000US53,Washington,34,Machinery,15,Truck and rail,2017,9,,1,,4,,3658,,28.2,,33.8,,33.9,,0.1,
+2,32,0400000US32,Nevada,,0400000US08,Colorado,0,All Commodities,14,"Parcel, U.S.P.S. or courier",2017,361,,10,,9,,972,,20.7,,20.2,,21.9,,3.4,
+2,12,0400000US12,Florida,,0400000US21,Kentucky,30,"Textiles, leather, and articles of textiles or leather",2,Single modes,2017,9,,0,Z,0,Z,819,,37.2,,37.8,,33.2,,11.1,
+2,29,0400000US29,Missouri,,0400000US45,South Carolina,34,Machinery,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,30,0400000US30,Montana,,0400000US31,Nebraska,10,Monumental or building stone,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,34,0400000US34,New Jersey,,0400000US55,Wisconsin,32,Base metal in primary or semi-finished forms and in finished basic shapes,2,Single modes,2017,0,S,0,S,0,S,930,,0.0,S,0.0,S,0.0,S,4.8,
+2,47,0400000US47,Tennessee,,0400000US04,Arizona,43,Mixed freight,2,Single modes,2017,0,S,8,,13,,1729,,0.0,S,34.0,,32.0,,4.5,
+2,53,0400000US53,Washington,,0400000US30,Montana,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,7,,0,Z,0,Z,570,,22.9,,19.0,,19.5,,7.2,
+2,17,0400000US17,Illinois,,0400000US38,North Dakota,20,Basic chemicals,1,All modes,2017,53,,55,,46,,827,,40.9,,47.9,,46.2,,7.2,
+2,51,0400000US51,Virginia,,0400000US39,Ohio,26,Wood products,13,Multiple modes,2017,0,S,0,S,0,S,416,,0.0,S,0.0,S,0.0,S,2.5,
+2,30,0400000US30,Montana,,0400000US32,Nevada,0,All Commodities,1,All modes,2017,75,,116,,130,,911,,21.3,,29.6,,32.0,,4.1,
+2,25,0400000US25,Massachusetts,,0400000US42,Pennsylvania,35,"Electronic and other electrical equipment and components, and office equipment",11,Air (incl truck and air),2017,13,,0,S,0,Z,0,S,48.0,,0.0,S,49.1,,0.0,S
+2,4,0400000US04,Arizona,,0400000US11,District of Columbia,29,Printed products,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,33,0400000US33,New Hampshire,,0400000US26,Michigan,13,"Other non-metallic minerals, not elsewhere classified",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,31,0400000US31,Nebraska,,0400000US55,Wisconsin,40,Miscellaneous manufactured products,4,For-hire truck,2017,69,,22,,12,,675,,43.3,,36.2,,37.4,,8.0,
+2,38,0400000US38,North Dakota,,0400000US38,North Dakota,21,Pharmaceutical products,3,Truck,2017,626,,4,,0,Z,94,,41.1,,31.4,,31.4,,18.6,
+2,25,0400000US25,Massachusetts,,0400000US26,Michigan,23,"Other chemical products and preparations, not elsewhere classified",2,Single modes,2017,27,,3,,3,,865,,31.1,,43.3,,42.8,,2.8,
+2,4,0400000US04,Arizona,,0400000US25,Massachusetts,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,2638,,0.0,S,0.0,S,0.0,S,0.9,
+2,56,0400000US56,Wyoming,,0400000US22,Louisiana,13,"Other non-metallic minerals, not elsewhere classified",2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,48,0400000US48,Texas,,0400000US17,Illinois,28,Paper or paperboard articles,4,For-hire truck,2017,26,,13,,13,,922,,34.7,,42.9,,42.3,,3.4,
+2,49,0400000US49,Utah,,0400000US17,Illinois,24,Plastics and rubber,13,Multiple modes,2017,2,,0,Z,0,Z,1399,,20.5,,41.0,,38.9,,4.2,
+2,29,0400000US29,Missouri,,0400000US06,California,30,"Textiles, leather, and articles of textiles or leather",16,Truck and water,2017,0,Z,0,Z,0,Z,1650,,40.1,,38.1,,38.1,,0.0,Z
+2,27,0400000US27,Minnesota,,0400000US24,Maryland,30,"Textiles, leather, and articles of textiles or leather",4,For-hire truck,2017,3,,0,S,0,S,1087,,35.2,,0.0,S,0.0,S,2.2,
+2,9,0400000US09,Connecticut,,0400000US28,Mississippi,31,Non-metallic mineral products,13,Multiple modes,2017,0,S,0,S,0,S,1279,,0.0,S,0.0,S,0.0,S,0.3,
+2,8,0400000US08,Colorado,,0400000US16,Idaho,11,Natural sands,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,18,0400000US18,Indiana,,0400000US46,South Dakota,43,Mixed freight,13,Multiple modes,2017,0,S,0,S,0,S,729,,0.0,S,0.0,S,0.0,S,19.6,
+2,53,0400000US53,Washington,,0400000US39,Ohio,20,Basic chemicals,1,All modes,2017,34,,0,S,0,S,2437,,31.0,,0.0,S,0.0,S,2.8,
+2,33,0400000US33,New Hampshire,,0400000US51,Virginia,13,"Other non-metallic minerals, not elsewhere classified",4,For-hire truck,2017,0,Z,0,Z,0,Z,566,,25.1,,11.0,,6.6,,7.1,
+2,23,0400000US23,Maine,,0400000US51,Virginia,32,Base metal in primary or semi-finished forms and in finished basic shapes,1,All modes,2017,0,S,0,S,0,S,689,,0.0,S,0.0,S,0.0,S,13.6,
+2,36,0400000US36,New York,,0400000US31,Nebraska,21,Pharmaceutical products,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US55,Wisconsin,32,Base metal in primary or semi-finished forms and in finished basic shapes,2,Single modes,2017,566,,425,,83,,164,,16.4,,15.4,,14.8,,11.7,
+2,22,0400000US22,Louisiana,,0400000US06,California,27,"Pulp, newsprint, paper, and paperboard",2,Single modes,2017,81,,130,,240,,1778,,43.2,,41.1,,47.4,,16.0,
+2,10,0400000US10,Delaware,,0400000US42,Pennsylvania,0,All Commodities,13,Multiple modes,2017,2302,,259,,25,,123,,45.8,,45.7,,41.4,,14.8,
+2,34,0400000US34,New Jersey,,0400000US53,Washington,31,Non-metallic mineral products,4,For-hire truck,2017,0,S,0,S,0,S,2792,,0.0,S,0.0,S,0.0,S,1.6,
+2,16,0400000US16,Idaho,,0400000US20,Kansas,21,Pharmaceutical products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,16,0400000US16,Idaho,,0400000US31,Nebraska,37,"Transportation equipment, not elsewhere classified",3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,53,0400000US53,Washington,,0400000US08,Colorado,23,"Other chemical products and preparations, not elsewhere classified",4,For-hire truck,2017,0,S,0,S,0,S,1283,,0.0,S,0.0,S,0.0,S,1.3,
+2,13,0400000US13,Georgia,,0400000US13,Georgia,20,Basic chemicals,16,Truck and water,2017,90,,33,,4,,122,,35.4,,33.5,,44.5,,23.3,
+2,46,0400000US46,South Dakota,,0400000US47,Tennessee,0,All Commodities,2,Single modes,2017,331,,294,,380,,1315,,17.5,,31.9,,31.6,,6.2,
+2,56,0400000US56,Wyoming,,0400000US56,Wyoming,34,Machinery,14,"Parcel, U.S.P.S. or courier",2017,104,,1,,0,Z,133,,46.0,,32.8,,33.8,,15.3,
+2,55,0400000US55,Wisconsin,,0400000US24,Maryland,35,"Electronic and other electrical equipment and components, and office equipment",11,Air (incl truck and air),2017,5,,0,S,0,S,1004,,14.0,,0.0,S,0.0,S,0.8,
+2,55,0400000US55,Wisconsin,,0400000US51,Virginia,26,Wood products,4,For-hire truck,2017,40,,20,,19,,928,,38.9,,40.3,,37.9,,4.9,
+2,35,0400000US35,New Mexico,,0400000US12,Florida,26,Wood products,3,Truck,2017,0,S,0,S,0,S,1915,,0.0,S,0.0,S,0.0,S,6.8,
+2,20,0400000US20,Kansas,,0400000US46,South Dakota,40,Miscellaneous manufactured products,2,Single modes,2017,0,S,0,Z,0,Z,382,,0.0,S,46.9,,44.8,,10.2,
+2,49,0400000US49,Utah,,0400000US56,Wyoming,26,Wood products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,Z,574,,0.0,S,0.0,S,49.5,,12.5,
+2,32,0400000US32,Nevada,,0400000US37,North Carolina,26,Wood products,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,46,0400000US46,South Dakota,,0400000US21,Kentucky,29,Printed products,2,Single modes,2017,0,S,0,Z,0,Z,904,,0.0,S,33.6,,33.3,,0.3,
+2,33,0400000US33,New Hampshire,,0400000US34,New Jersey,29,Printed products,3,Truck,2017,40,,0,S,0,S,295,,36.8,,0.0,S,0.0,S,2.4,
+2,51,0400000US51,Virginia,,0400000US20,Kansas,8,Alcoholic beverages,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US04,Arizona,36,Motorized and other vehicles (includes parts),1,All modes,2017,0,S,1,,2,,1723,,0.0,S,49.4,,49.1,,1.5,
+2,31,0400000US31,Nebraska,,0400000US27,Minnesota,28,Paper or paperboard articles,1,All modes,2017,8,,4,,1,,393,,12.4,,22.0,,26.2,,9.0,
+2,8,0400000US08,Colorado,,0400000US41,Oregon,0,All Commodities,6,Rail,2017,0,S,51,,67,,1320,,0.0,S,11.6,,2.7,,11.8,
+2,22,0400000US22,Louisiana,,0400000US42,Pennsylvania,17,Gasoline and aviation turbine fuel,1,All modes,2017,484,,979,,973,,994,,6.4,,6.4,,6.4,,0.0,Z
+2,27,0400000US27,Minnesota,,0400000US12,Florida,35,"Electronic and other electrical equipment and components, and office equipment",1,All modes,2017,685,,18,,30,,1684,,28.1,,33.4,,34.8,,2.5,
+2,35,0400000US35,New Mexico,,0400000US01,Alabama,28,Paper or paperboard articles,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,32,0400000US32,Nevada,,0400000US04,Arizona,41,Waste and scrap,4,For-hire truck,2017,18,,0,Z,0,Z,722,,41.0,,38.3,,38.3,,0.0,
+2,40,0400000US40,Oklahoma,,0400000US48,Texas,20,Basic chemicals,11,Air (incl truck and air),2017,0,S,0,S,0,S,2327,,0.0,S,0.0,S,0.0,S,7.3,
+2,13,0400000US13,Georgia,,0400000US08,Colorado,24,Plastics and rubber,3,Truck,2017,64,,0,S,0,S,1405,,27.9,,0.0,S,0.0,S,1.3,
+2,47,0400000US47,Tennessee,,0400000US25,Massachusetts,7,Other prepared foodstuffs and fats and oils,6,Rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,13,0400000US13,Georgia,,0400000US48,Texas,35,"Electronic and other electrical equipment and components, and office equipment",14,"Parcel, U.S.P.S. or courier",2017,698,,10,,9,,878,,30.1,,29.6,,29.0,,2.0,
+2,40,0400000US40,Oklahoma,,0400000US27,Minnesota,18,Fuel oils,4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,48,0400000US48,Texas,,0400000US47,Tennessee,9,Tobacco products,3,Truck,2017,20,,0,Z,0,Z,738,,39.7,,45.5,,48.6,,6.7,
+2,24,0400000US24,Maryland,,0400000US47,Tennessee,31,Non-metallic mineral products,4,For-hire truck,2017,0,S,0,S,0,S,445,,0.0,S,0.0,S,0.0,S,49.3,
+2,56,0400000US56,Wyoming,,0400000US49,Utah,23,"Other chemical products and preparations, not elsewhere classified",1,All modes,2017,20,,19,,6,,375,,41.8,,42.2,,42.1,,5.6,
+2,40,0400000US40,Oklahoma,,0400000US23,Maine,21,Pharmaceutical products,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,32,0400000US32,Nevada,,0400000US29,Missouri,0,All Commodities,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,55,0400000US55,Wisconsin,,0400000US17,Illinois,33,Articles of base metal,13,Multiple modes,2017,87,,2,,0,Z,187,,29.4,,28.1,,30.5,,10.2,
+2,42,0400000US42,Pennsylvania,,0400000US15,Hawaii,0,All Commodities,16,Truck and water,2017,0,S,0,S,0,S,5260,,0.0,S,0.0,S,0.0,S,1.0,
+2,12,0400000US12,Florida,,0400000US01,Alabama,34,Machinery,4,For-hire truck,2017,0,S,0,S,0,S,633,,0.0,S,0.0,S,0.0,S,5.3,
+2,51,0400000US51,Virginia,,0400000US17,Illinois,28,Paper or paperboard articles,4,For-hire truck,2017,28,,0,S,0,S,764,,49.0,,0.0,S,0.0,S,3.1,
+2,13,0400000US13,Georgia,,0400000US56,Wyoming,24,Plastics and rubber,13,Multiple modes,2017,2,,0,S,0,S,1683,,49.3,,0.0,S,0.0,S,10.5,
+2,36,0400000US36,New York,,0400000US09,Connecticut,28,Paper or paperboard articles,5,Company-owned truck,2017,0,S,10,,0,S,82,,0.0,S,47.1,,0.0,S,28.4,
+2,32,0400000US32,Nevada,,0400000US31,Nebraska,29,Printed products,1,All modes,2017,0,S,0,S,0,S,1278,,0.0,S,0.0,S,0.0,S,3.3,
+2,54,0400000US54,West Virginia,,0400000US17,Illinois,36,Motorized and other vehicles (includes parts),3,Truck,2017,2,,0,Z,0,Z,539,,9.7,,30.1,,35.9,,6.8,
+2,6,0400000US06,California,,0400000US26,Michigan,13,"Other non-metallic minerals, not elsewhere classified",4,For-hire truck,2017,0,S,6,,14,,2255,,0.0,S,18.3,,19.1,,3.0,
+2,56,0400000US56,Wyoming,,0400000US08,Colorado,26,Wood products,1,All modes,2017,0,S,0,S,4,,150,,0.0,S,0.0,S,39.8,,25.2,
+2,25,0400000US25,Massachusetts,,0400000US40,Oklahoma,34,Machinery,1,All modes,2017,0,S,0,Z,1,,1680,,0.0,S,42.1,,43.0,,1.5,
+2,33,0400000US33,New Hampshire,,0400000US19,Iowa,40,Miscellaneous manufactured products,13,Multiple modes,2017,17,,0,S,0,S,1336,,29.0,,0.0,S,0.0,S,1.8,
+2,19,0400000US19,Iowa,,0400000US22,Louisiana,20,Basic chemicals,3,Truck,2017,55,,0,S,0,S,954,,39.8,,0.0,S,0.0,S,6.4,
+2,54,0400000US54,West Virginia,,0400000US33,New Hampshire,23,"Other chemical products and preparations, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,29,0400000US29,Missouri,,0400000US36,New York,23,"Other chemical products and preparations, not elsewhere classified",2,Single modes,2017,50,,11,,12,,1118,,43.4,,31.9,,32.6,,2.7,
+2,22,0400000US22,Louisiana,,0400000US24,Maryland,26,Wood products,4,For-hire truck,2017,14,,17,,21,,1213,,28.6,,23.5,,22.5,,1.5,
+2,39,0400000US39,Ohio,,0400000US08,Colorado,32,Base metal in primary or semi-finished forms and in finished basic shapes,3,Truck,2017,84,,34,,46,,1287,,43.6,,49.9,,49.6,,2.3,
+2,27,0400000US27,Minnesota,,0400000US18,Indiana,20,Basic chemicals,14,"Parcel, U.S.P.S. or courier",2017,3,,0,S,0,S,606,,34.5,,0.0,S,0.0,S,5.0,
+2,40,0400000US40,Oklahoma,,0400000US53,Washington,22,Fertilizers,3,Truck,2017,7,,0,S,0,S,2027,,21.4,,0.0,S,0.0,S,0.0,Z
+2,12,0400000US12,Florida,,0400000US28,Mississippi,38,Precision instruments and apparatus,4,For-hire truck,2017,0,S,0,S,0,S,715,,0.0,S,0.0,S,0.0,S,9.8,
+2,17,0400000US17,Illinois,,0400000US21,Kentucky,23,"Other chemical products and preparations, not elsewhere classified",5,Company-owned truck,2017,26,,10,,4,,325,,23.8,,14.4,,34.7,,23.5,
+2,47,0400000US47,Tennessee,,0400000US45,South Carolina,19,"Other coal and petroleum products, not elsewhere classified",3,Truck,2017,0,S,0,S,0,S,485,,0.0,S,0.0,S,0.0,S,8.7,
+2,10,0400000US10,Delaware,,0400000US27,Minnesota,34,Machinery,2,Single modes,2017,0,S,0,S,0,S,1216,,0.0,S,0.0,S,0.0,S,3.3,
+2,21,0400000US21,Kentucky,,0400000US09,Connecticut,27,"Pulp, newsprint, paper, and paperboard",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,50,0400000US50,Vermont,,0400000US25,Massachusetts,26,Wood products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,13,0400000US13,Georgia,,0400000US46,South Dakota,24,Plastics and rubber,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,33,0400000US33,New Hampshire,,0400000US23,Maine,28,Paper or paperboard articles,2,Single modes,2017,0,S,0,S,0,S,107,,0.0,S,0.0,S,0.0,S,24.7,
+2,6,0400000US06,California,,0400000US08,Colorado,4,"Animal feed, eggs, honey, and other products of animal origin",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,1162,,0.0,S,0.0,S,0.0,S,5.5,
+2,27,0400000US27,Minnesota,,0400000US31,Nebraska,26,Wood products,1,All modes,2017,121,,115,,53,,422,,32.4,,28.0,,23.3,,8.1,
+2,37,0400000US37,North Carolina,,0400000US54,West Virginia,32,Base metal in primary or semi-finished forms and in finished basic shapes,14,"Parcel, U.S.P.S. or courier",2017,0,Z,0,Z,0,Z,331,,13.6,,37.9,,43.3,,18.3,
+2,17,0400000US17,Illinois,,0400000US10,Delaware,30,"Textiles, leather, and articles of textiles or leather",14,"Parcel, U.S.P.S. or courier",2017,2,,0,S,0,S,807,,35.1,,0.0,S,0.0,S,1.9,
+2,45,0400000US45,South Carolina,,0400000US53,Washington,28,Paper or paperboard articles,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,13,0400000US13,Georgia,,0400000US51,Virginia,13,"Other non-metallic minerals, not elsewhere classified",1,All modes,2017,7,,0,S,0,S,519,,36.0,,0.0,S,0.0,S,4.1,
+2,34,0400000US34,New Jersey,,0400000US47,Tennessee,28,Paper or paperboard articles,14,"Parcel, U.S.P.S. or courier",2017,5,,0,S,0,S,785,,34.6,,0.0,S,0.0,S,17.9,
+2,33,0400000US33,New Hampshire,,0400000US49,Utah,34,Machinery,1,All modes,2017,26,,0,S,0,S,2388,,48.3,,0.0,S,0.0,S,1.0,
+2,37,0400000US37,North Carolina,,0400000US40,Oklahoma,31,Non-metallic mineral products,13,Multiple modes,2017,5,,0,Z,0,Z,1148,,35.8,,48.4,,47.9,,1.1,
+2,20,0400000US20,Kansas,,0400000US17,Illinois,35,"Electronic and other electrical equipment and components, and office equipment",3,Truck,2017,0,S,20,,11,,534,,0.0,S,35.2,,34.2,,5.4,
+2,30,0400000US30,Montana,,0400000US33,New Hampshire,7,Other prepared foodstuffs and fats and oils,14,"Parcel, U.S.P.S. or courier",2017,0,Z,0,Z,0,Z,2721,,4.4,,27.5,,28.3,,0.8,
+2,16,0400000US16,Idaho,,0400000US30,Montana,6,"Milled grain products and preparations, and bakery products",1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,33,0400000US33,New Hampshire,,0400000US24,Maryland,6,"Milled grain products and preparations, and bakery products",2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,34,0400000US34,New Jersey,,0400000US12,Florida,0,All Commodities,11,Air (incl truck and air),2017,679,,6,,8,,1198,,42.1,,44.6,,43.4,,3.2,
+2,48,0400000US48,Texas,,0400000US40,Oklahoma,0,All Commodities,5,Company-owned truck,2017,8854,,7315,,2081,,215,,17.1,,31.8,,43.5,,6.8,
+2,39,0400000US39,Ohio,,0400000US56,Wyoming,20,Basic chemicals,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,17,0400000US17,Illinois,,0400000US34,New Jersey,33,Articles of base metal,13,Multiple modes,2017,55,,0,S,0,S,825,,30.8,,0.0,S,0.0,S,2.0,
+2,32,0400000US32,Nevada,,0400000US33,New Hampshire,0,All Commodities,1,All modes,2017,0,S,3,,10,,2914,,0.0,S,44.9,,45.0,,1.1,
+2,27,0400000US27,Minnesota,,0400000US39,Ohio,27,"Pulp, newsprint, paper, and paperboard",4,For-hire truck,2017,37,,32,,25,,778,,39.1,,33.7,,34.3,,2.6,
+2,41,0400000US41,Oregon,,0400000US19,Iowa,33,Articles of base metal,4,For-hire truck,2017,0,S,0,S,0,S,1816,,0.0,S,0.0,S,0.0,S,2.5,
+2,53,0400000US53,Washington,,0400000US33,New Hampshire,35,"Electronic and other electrical equipment and components, and office equipment",2,Single modes,2017,16,,0,Z,0,Z,3131,,31.1,,24.6,,24.8,,0.3,
+2,23,0400000US23,Maine,,0400000US47,Tennessee,5,"Meat, poultry, fish, seafood, and their preparations",2,Single modes,2017,0,S,0,S,0,S,1182,,0.0,S,0.0,S,0.0,S,0.9,
+2,20,0400000US20,Kansas,,0400000US36,New York,37,"Transportation equipment, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,1391,,0.0,S,0.0,S,0.0,S,1.6,
+2,18,0400000US18,Indiana,,0400000US38,North Dakota,34,Machinery,13,Multiple modes,2017,5,,0,S,0,S,949,,47.1,,0.0,S,0.0,S,5.3,
+2,10,0400000US10,Delaware,,0400000US33,New Hampshire,8,Alcoholic beverages,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,20,0400000US20,Kansas,,0400000US55,Wisconsin,31,Non-metallic mineral products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,1,0400000US01,Alabama,,0400000US25,Massachusetts,19,"Other coal and petroleum products, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,34,0400000US34,New Jersey,,0400000US55,Wisconsin,43,Mixed freight,2,Single modes,2017,0,S,0,S,0,S,948,,0.0,S,0.0,S,0.0,S,3.1,
+2,31,0400000US31,Nebraska,,0400000US56,Wyoming,40,Miscellaneous manufactured products,2,Single modes,2017,21,,7,,4,,418,,49.6,,45.5,,48.2,,23.2,
+2,40,0400000US40,Oklahoma,,0400000US42,Pennsylvania,40,Miscellaneous manufactured products,4,For-hire truck,2017,0,S,3,,4,,1162,,0.0,S,24.8,,24.7,,3.0,
+2,17,0400000US17,Illinois,,0400000US51,Virginia,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",3,Truck,2017,0,S,0,S,0,S,753,,0.0,S,0.0,S,0.0,S,2.7,
+2,49,0400000US49,Utah,,0400000US55,Wisconsin,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,5,,0,Z,0,Z,1404,,38.3,,42.5,,42.3,,1.1,
+2,4,0400000US04,Arizona,,0400000US09,Connecticut,37,"Transportation equipment, not elsewhere classified",4,For-hire truck,2017,94,,0,Z,1,,2499,,32.3,,32.8,,32.6,,1.1,
+2,21,0400000US21,Kentucky,,0400000US54,West Virginia,35,"Electronic and other electrical equipment and components, and office equipment",5,Company-owned truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,18,0400000US18,Indiana,,0400000US06,California,38,Precision instruments and apparatus,2,Single modes,2017,89,,3,,7,,2197,,35.7,,32.7,,32.5,,1.1,
+2,48,0400000US48,Texas,,0400000US56,Wyoming,35,"Electronic and other electrical equipment and components, and office equipment",4,For-hire truck,2017,0,S,0,S,0,S,1007,,0.0,S,0.0,S,0.0,S,4.6,
+2,24,0400000US24,Maryland,,0400000US26,Michigan,6,"Milled grain products and preparations, and bakery products",3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,4,0400000US04,Arizona,,0400000US04,Arizona,26,Wood products,1,All modes,2017,2098,,1926,,107,,36,,18.2,,20.7,,14.7,,13.1,
+2,46,0400000US46,South Dakota,,0400000US08,Colorado,31,Non-metallic mineral products,2,Single modes,2017,3,,59,,24,,579,,23.7,,35.8,,35.9,,9.3,
+2,21,0400000US21,Kentucky,,0400000US13,Georgia,21,Pharmaceutical products,2,Single modes,2017,0,S,0,S,0,S,359,,0.0,S,0.0,S,0.0,S,8.1,
+2,48,0400000US48,Texas,,0400000US05,Arkansas,31,Non-metallic mineral products,3,Truck,2017,89,,215,,86,,349,,27.5,,20.7,,20.6,,6.0,
+2,50,0400000US50,Vermont,,0400000US40,Oklahoma,33,Articles of base metal,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,16,0400000US16,Idaho,,0400000US06,California,32,Base metal in primary or semi-finished forms and in finished basic shapes,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,56,0400000US56,Wyoming,,0400000US56,Wyoming,40,Miscellaneous manufactured products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,215,,0.0,S,0.0,S,0.0,S,27.8,
+2,55,0400000US55,Wisconsin,,0400000US08,Colorado,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",1,All modes,2017,35,,4,,4,,972,,46.3,,33.7,,33.3,,2.7,
+2,42,0400000US42,Pennsylvania,,0400000US34,New Jersey,34,Machinery,3,Truck,2017,896,,59,,6,,72,,31.5,,26.3,,23.3,,26.7,
+2,37,0400000US37,North Carolina,,0400000US11,District of Columbia,36,Motorized and other vehicles (includes parts),2,Single modes,2017,0,S,0,S,0,S,330,,0.0,S,0.0,S,0.0,S,0.9,
+2,37,0400000US37,North Carolina,,0400000US08,Colorado,20,Basic chemicals,13,Multiple modes,2017,0,S,0,S,0,S,1623,,0.0,S,0.0,S,0.0,S,2.1,
+2,42,0400000US42,Pennsylvania,,0400000US10,Delaware,4,"Animal feed, eggs, honey, and other products of animal origin",13,Multiple modes,2017,0,S,0,S,0,S,79,,0.0,S,0.0,S,0.0,S,0.5,
+2,51,0400000US51,Virginia,,0400000US35,New Mexico,29,Printed products,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,36,0400000US36,New York,,0400000US06,California,38,Precision instruments and apparatus,14,"Parcel, U.S.P.S. or courier",2017,1540,,7,,19,,2871,,42.1,,28.9,,29.1,,0.6,
+2,32,0400000US32,Nevada,,0400000US29,Missouri,28,Paper or paperboard articles,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,53,0400000US53,Washington,,0400000US34,New Jersey,28,Paper or paperboard articles,2,Single modes,2017,6,,0,S,0,S,2874,,45.9,,0.0,S,0.0,S,0.2,
+2,44,0400000US44,Rhode Island,,0400000US17,Illinois,37,"Transportation equipment, not elsewhere classified",13,Multiple modes,2017,0,Z,0,Z,0,Z,1004,,9.1,,23.5,,24.4,,1.3,
+2,30,0400000US30,Montana,,0400000US51,Virginia,2,Cereal grains (includes seed),3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,1,0400000US01,Alabama,,0400000US05,Arkansas,33,Articles of base metal,13,Multiple modes,2017,0,S,0,Z,0,Z,402,,0.0,S,44.4,,43.8,,2.5,
+2,31,0400000US31,Nebraska,,0400000US26,Michigan,35,"Electronic and other electrical equipment and components, and office equipment",1,All modes,2017,0,S,0,S,0,S,831,,0.0,S,0.0,S,0.0,S,5.4,
+2,17,0400000US17,Illinois,,0400000US09,Connecticut,35,"Electronic and other electrical equipment and components, and office equipment",3,Truck,2017,87,,0,S,0,S,889,,46.9,,0.0,S,0.0,S,2.7,
+2,49,0400000US49,Utah,,0400000US34,New Jersey,21,Pharmaceutical products,11,Air (incl truck and air),2017,15,,0,Z,0,Z,2293,,41.2,,15.9,,16.1,,0.2,
+2,36,0400000US36,New York,,0400000US27,Minnesota,29,Printed products,14,"Parcel, U.S.P.S. or courier",2017,13,,0,Z,1,,1253,,33.8,,28.9,,29.7,,2.9,
+2,29,0400000US29,Missouri,,0400000US05,Arkansas,33,Articles of base metal,4,For-hire truck,2017,0,S,0,S,0,S,268,,0.0,S,0.0,S,0.0,S,11.1,
+2,37,0400000US37,North Carolina,,0400000US09,Connecticut,35,"Electronic and other electrical equipment and components, and office equipment",14,"Parcel, U.S.P.S. or courier",2017,58,,0,Z,0,Z,686,,47.7,,37.4,,35.3,,2.9,
+2,6,0400000US06,California,,0400000US17,Illinois,38,Precision instruments and apparatus,14,"Parcel, U.S.P.S. or courier",2017,737,,4,,7,,2052,,20.0,,38.8,,37.6,,0.6,
+2,6,0400000US06,California,,0400000US24,Maryland,37,"Transportation equipment, not elsewhere classified",1,All modes,2017,34,,0,Z,1,,2600,,20.9,,37.2,,38.6,,1.1,
+2,36,0400000US36,New York,,0400000US04,Arizona,5,"Meat, poultry, fish, seafood, and their preparations",4,For-hire truck,2017,0,S,0,S,0,S,2435,,0.0,S,0.0,S,0.0,S,3.2,
+2,45,0400000US45,South Carolina,,0400000US42,Pennsylvania,26,Wood products,4,For-hire truck,2017,86,,143,,84,,594,,33.4,,32.6,,33.0,,4.2,
+2,8,0400000US08,Colorado,,0400000US05,Arkansas,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",4,For-hire truck,2017,2,,0,Z,0,Z,895,,16.7,,17.1,,21.1,,6.5,
+2,16,0400000US16,Idaho,,0400000US13,Georgia,43,Mixed freight,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,Z,2163,,0.0,S,16.8,,16.8,,0.0,Z
+2,42,0400000US42,Pennsylvania,,0400000US02,Alaska,29,Printed products,13,Multiple modes,2017,0,S,0,S,0,S,3785,,0.0,S,0.0,S,0.0,S,4.5,
+2,23,0400000US23,Maine,,0400000US10,Delaware,40,Miscellaneous manufactured products,2,Single modes,2017,0,S,0,S,0,S,553,,0.0,S,0.0,S,0.0,S,0.0,Z
+2,37,0400000US37,North Carolina,,0400000US21,Kentucky,35,"Electronic and other electrical equipment and components, and office equipment",4,For-hire truck,2017,82,,6,,2,,397,,26.4,,39.7,,38.0,,9.9,
+2,5,0400000US05,Arkansas,,0400000US38,North Dakota,27,"Pulp, newsprint, paper, and paperboard",3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,41,0400000US41,Oregon,,0400000US19,Iowa,24,Plastics and rubber,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,1826,,0.0,S,0.0,S,0.0,S,2.1,
+2,47,0400000US47,Tennessee,,0400000US48,Texas,28,Paper or paperboard articles,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,964,,0.0,S,0.0,S,0.0,S,8.0,
+2,26,0400000US26,Michigan,,0400000US51,Virginia,36,Motorized and other vehicles (includes parts),14,"Parcel, U.S.P.S. or courier",2017,0,S,4,,3,,689,,0.0,S,41.4,,42.4,,3.9,
+2,20,0400000US20,Kansas,,0400000US08,Colorado,4,"Animal feed, eggs, honey, and other products of animal origin",5,Company-owned truck,2017,18,,72,,12,,164,,28.3,,36.5,,43.9,,8.6,
+2,24,0400000US24,Maryland,,0400000US21,Kentucky,33,Articles of base metal,2,Single modes,2017,0,S,0,S,0,S,571,,0.0,S,0.0,S,0.0,S,4.9,
+2,28,0400000US28,Mississippi,,0400000US16,Idaho,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,34,0400000US34,New Jersey,,0400000US34,New Jersey,13,"Other non-metallic minerals, not elsewhere classified",13,Multiple modes,2017,0,S,0,Z,0,Z,55,,0.0,S,36.9,,41.9,,13.0,
+2,4,0400000US04,Arizona,,0400000US41,Oregon,35,"Electronic and other electrical equipment and components, and office equipment",13,Multiple modes,2017,112,,0,S,0,S,1250,,39.9,,0.0,S,0.0,S,3.1,
+2,42,0400000US42,Pennsylvania,,0400000US39,Ohio,13,"Other non-metallic minerals, not elsewhere classified",5,Company-owned truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,44,0400000US44,Rhode Island,,0400000US25,Massachusetts,24,Plastics and rubber,2,Single modes,2017,211,,53,,3,,44,,25.3,,38.3,,42.7,,14.9,
+2,56,0400000US56,Wyoming,,0400000US08,Colorado,38,Precision instruments and apparatus,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,28,0400000US28,Mississippi,,0400000US01,Alabama,30,"Textiles, leather, and articles of textiles or leather",3,Truck,2017,449,,7,,2,,235,,33.3,,37.5,,42.5,,14.1,
+2,21,0400000US21,Kentucky,,0400000US20,Kansas,21,Pharmaceutical products,1,All modes,2017,0,S,0,Z,0,Z,604,,0.0,S,40.3,,39.6,,3.8,
+2,16,0400000US16,Idaho,,0400000US19,Iowa,7,Other prepared foodstuffs and fats and oils,6,Rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,17,0400000US17,Illinois,,0400000US20,Kansas,9,Tobacco products,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,47,0400000US47,Tennessee,,0400000US40,Oklahoma,21,Pharmaceutical products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,511,,0.0,S,0.0,S,0.0,S,8.9,
+2,55,0400000US55,Wisconsin,,0400000US48,Texas,0,All Commodities,1,All modes,2017,12818,,0,S,0,S,1217,,2.8,,0.0,S,0.0,S,1.4,
+2,5,0400000US05,Arkansas,,0400000US51,Virginia,32,Base metal in primary or semi-finished forms and in finished basic shapes,2,Single modes,2017,24,,0,S,0,S,1033,,48.5,,0.0,S,0.0,S,8.7,
+2,42,0400000US42,Pennsylvania,,0400000US30,Montana,35,"Electronic and other electrical equipment and components, and office equipment",4,For-hire truck,2017,0,S,0,S,0,S,2024,,0.0,S,0.0,S,0.0,S,2.5,
+2,56,0400000US56,Wyoming,,0400000US46,South Dakota,43,Mixed freight,13,Multiple modes,2017,1,,0,Z,0,Z,483,,41.8,,37.8,,27.6,,36.7,
+2,55,0400000US55,Wisconsin,,0400000US44,Rhode Island,7,Other prepared foodstuffs and fats and oils,4,For-hire truck,2017,0,S,0,Z,0,Z,1140,,0.0,S,36.2,,38.9,,3.4,
+2,6,0400000US06,California,,0400000US05,Arkansas,29,Printed products,1,All modes,2017,0,S,0,Z,0,Z,1747,,0.0,S,35.0,,34.7,,2.6,
+2,13,0400000US13,Georgia,,0400000US24,Maryland,1,Animals and fish (live),4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US27,Minnesota,6,"Milled grain products and preparations, and bakery products",3,Truck,2017,1510,,708,,28,,17,,15.0,,12.0,,17.7,,43.7,
+2,36,0400000US36,New York,,0400000US39,Ohio,41,Waste and scrap,5,Company-owned truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,40,0400000US40,Oklahoma,,0400000US34,New Jersey,36,Motorized and other vehicles (includes parts),14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,1489,,0.0,S,0.0,S,0.0,S,2.8,
+2,37,0400000US37,North Carolina,,0400000US24,Maryland,24,Plastics and rubber,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,41,0400000US41,Oregon,,0400000US48,Texas,8,Alcoholic beverages,4,For-hire truck,2017,13,,0,S,0,S,2263,,45.2,,0.0,S,0.0,S,3.4,
+2,2,0400000US02,Alaska,,0400000US06,California,40,Miscellaneous manufactured products,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,34,0400000US34,New Jersey,,0400000US39,Ohio,30,"Textiles, leather, and articles of textiles or leather",13,Multiple modes,2017,154,,4,,2,,513,,21.9,,30.7,,30.5,,2.4,
+2,1,0400000US01,Alabama,,0400000US13,Georgia,0,All Commodities,15,Truck and rail,2017,401,,1325,,456,,351,,22.7,,37.2,,30.9,,9.1,
+2,42,0400000US42,Pennsylvania,,0400000US42,Pennsylvania,21,Pharmaceutical products,16,Truck and water,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,31,0400000US31,Nebraska,,0400000US41,Oregon,33,Articles of base metal,4,For-hire truck,2017,34,,12,,20,,1490,,38.1,,46.7,,48.1,,3.5,
+2,25,0400000US25,Massachusetts,,0400000US19,Iowa,30,"Textiles, leather, and articles of textiles or leather",13,Multiple modes,2017,0,S,0,S,0,S,1283,,0.0,S,0.0,S,0.0,S,1.9,
+2,31,0400000US31,Nebraska,,0400000US31,Nebraska,4,"Animal feed, eggs, honey, and other products of animal origin",1,All modes,2017,2817,,23429,,1303,,65,,39.0,,21.6,,28.9,,19.1,
+2,19,0400000US19,Iowa,,0400000US04,Arizona,6,"Milled grain products and preparations, and bakery products",1,All modes,2017,0,S,0,S,0,S,1669,,0.0,S,0.0,S,0.0,S,2.9,
+2,39,0400000US39,Ohio,,0400000US24,Maryland,0,All Commodities,5,Company-owned truck,2017,218,,74,,29,,375,,30.7,,29.0,,30.2,,5.4,
+2,27,0400000US27,Minnesota,,0400000US41,Oregon,27,"Pulp, newsprint, paper, and paperboard",1,All modes,2017,0,S,0,Z,0,Z,1711,,0.0,S,46.3,,45.5,,4.3,
+2,47,0400000US47,Tennessee,,0400000US33,New Hampshire,36,Motorized and other vehicles (includes parts),4,For-hire truck,2017,36,,0,S,0,S,1350,,25.7,,0.0,S,0.0,S,5.6,
+2,51,0400000US51,Virginia,,0400000US32,Nevada,23,"Other chemical products and preparations, not elsewhere classified",13,Multiple modes,2017,0,S,0,S,0,S,2473,,0.0,S,0.0,S,0.0,S,2.2,
+2,34,0400000US34,New Jersey,,0400000US23,Maine,28,Paper or paperboard articles,4,For-hire truck,2017,11,,5,,2,,454,,33.1,,32.2,,32.3,,1.5,
+2,25,0400000US25,Massachusetts,,0400000US10,Delaware,43,Mixed freight,14,"Parcel, U.S.P.S. or courier",2017,1,,0,S,0,S,326,,21.3,,0.0,S,0.0,S,14.8,
+2,5,0400000US05,Arkansas,,0400000US05,Arkansas,32,Base metal in primary or semi-finished forms and in finished basic shapes,3,Truck,2017,1338,,1463,,59,,42,,21.3,,21.6,,21.8,,11.6,
+2,42,0400000US42,Pennsylvania,,0400000US18,Indiana,26,Wood products,13,Multiple modes,2017,0,S,0,S,0,S,658,,0.0,S,0.0,S,0.0,S,8.8,
+2,36,0400000US36,New York,,0400000US47,Tennessee,40,Miscellaneous manufactured products,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US49,Utah,38,Precision instruments and apparatus,14,"Parcel, U.S.P.S. or courier",2017,13,,0,Z,0,Z,1307,,46.9,,48.6,,48.5,,0.6,
+2,1,0400000US01,Alabama,,0400000US12,Florida,13,"Other non-metallic minerals, not elsewhere classified",4,For-hire truck,2017,0,S,39,,27,,0,S,0.0,S,34.4,,35.6,,0.0,S
+2,6,0400000US06,California,,0400000US34,New Jersey,19,"Other coal and petroleum products, not elsewhere classified",4,For-hire truck,2017,0,S,0,S,0,S,2808,,0.0,S,0.0,S,0.0,S,0.9,
+2,39,0400000US39,Ohio,,0400000US55,Wisconsin,23,"Other chemical products and preparations, not elsewhere classified",3,Truck,2017,720,,134,,64,,507,,14.5,,14.4,,15.9,,4.2,
+2,47,0400000US47,Tennessee,,0400000US51,Virginia,38,Precision instruments and apparatus,5,Company-owned truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,2,0400000US02,Alaska,,0400000US04,Arizona,35,"Electronic and other electrical equipment and components, and office equipment",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,6,0400000US06,California,,0400000US34,New Jersey,0,All Commodities,3,Truck,2017,11803,,1683,,4734,,2808,,16.7,,16.4,,16.4,,0.4,
+2,47,0400000US47,Tennessee,,0400000US35,New Mexico,27,"Pulp, newsprint, paper, and paperboard",1,All modes,2017,0,S,0,S,0,S,1382,,0.0,S,0.0,S,0.0,S,4.5,
+2,19,0400000US19,Iowa,,0400000US45,South Carolina,30,"Textiles, leather, and articles of textiles or leather",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,Z,1046,,0.0,S,32.0,,32.5,,6.8,
+2,42,0400000US42,Pennsylvania,,0400000US50,Vermont,21,Pharmaceutical products,13,Multiple modes,2017,0,S,0,S,0,S,399,,0.0,S,0.0,S,0.0,S,2.4,
+2,6,0400000US06,California,,0400000US42,Pennsylvania,19,"Other coal and petroleum products, not elsewhere classified",3,Truck,2017,0,S,0,S,0,S,2686,,0.0,S,0.0,S,0.0,S,0.0,Z
+2,4,0400000US04,Arizona,,0400000US36,New York,29,Printed products,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,38,0400000US38,North Dakota,,0400000US32,Nevada,29,Printed products,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,24,0400000US24,Maryland,,0400000US01,Alabama,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,31,0400000US31,Nebraska,,0400000US38,North Dakota,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",3,Truck,2017,0,Z,0,Z,0,Z,432,,31.1,,22.6,,22.3,,0.4,
+2,41,0400000US41,Oregon,,0400000US06,California,34,Machinery,4,For-hire truck,2017,635,,62,,36,,595,,32.7,,31.1,,35.9,,11.1,
+2,5,0400000US05,Arkansas,,0400000US46,South Dakota,40,Miscellaneous manufactured products,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,40,0400000US40,Oklahoma,,0400000US40,Oklahoma,24,Plastics and rubber,4,For-hire truck,2017,414,,89,,6,,45,,30.0,,24.9,,28.3,,17.0,
+2,39,0400000US39,Ohio,,0400000US47,Tennessee,24,Plastics and rubber,15,Truck and rail,2017,54,,26,,20,,740,,40.6,,22.5,,22.3,,2.6,
+2,54,0400000US54,West Virginia,,0400000US47,Tennessee,20,Basic chemicals,5,Company-owned truck,2017,0,Z,4,,1,,281,,35.5,,35.5,,30.7,,4.5,
+2,54,0400000US54,West Virginia,,0400000US42,Pennsylvania,15,Coal,13,Multiple modes,2017,0,Z,0,Z,0,Z,664,,9.5,,21.3,,21.2,,2.0,
+2,34,0400000US34,New Jersey,,0400000US30,Montana,20,Basic chemicals,3,Truck,2017,0,Z,0,S,0,S,2168,,34.9,,0.0,S,0.0,S,3.7,
+2,2,0400000US02,Alaska,,0400000US48,Texas,29,Printed products,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,19,0400000US19,Iowa,,0400000US19,Iowa,35,"Electronic and other electrical equipment and components, and office equipment",5,Company-owned truck,2017,1619,,304,,0,S,37,,26.2,,30.8,,0.0,S,9.5,
+2,5,0400000US05,Arkansas,,0400000US51,Virginia,6,"Milled grain products and preparations, and bakery products",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,37,0400000US37,North Carolina,,0400000US47,Tennessee,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,451,,0.0,S,0.0,S,0.0,S,10.6,
+2,47,0400000US47,Tennessee,,0400000US50,Vermont,24,Plastics and rubber,1,All modes,2017,1,,0,S,0,S,862,,47.8,,0.0,S,0.0,S,26.8,
+2,47,0400000US47,Tennessee,,0400000US04,Arizona,6,"Milled grain products and preparations, and bakery products",3,Truck,2017,8,,6,,11,,1720,,26.7,,42.8,,40.1,,3.4,
+2,37,0400000US37,North Carolina,,0400000US24,Maryland,31,Non-metallic mineral products,4,For-hire truck,2017,39,,136,,45,,327,,23.7,,30.4,,37.7,,5.7,
+2,39,0400000US39,Ohio,,0400000US05,Arkansas,4,"Animal feed, eggs, honey, and other products of animal origin",3,Truck,2017,0,S,0,S,0,S,689,,0.0,S,0.0,S,0.0,S,6.8,
+2,42,0400000US42,Pennsylvania,,0400000US11,District of Columbia,6,"Milled grain products and preparations, and bakery products",4,For-hire truck,2017,0,S,0,S,0,S,93,,0.0,S,0.0,S,0.0,S,0.1,
+2,16,0400000US16,Idaho,,0400000US18,Indiana,5,"Meat, poultry, fish, seafood, and their preparations",1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US24,Maryland,30,"Textiles, leather, and articles of textiles or leather",13,Multiple modes,2017,24,,1,,1,,1143,,35.3,,38.8,,37.8,,1.5,
+2,12,0400000US12,Florida,,0400000US42,Pennsylvania,40,Miscellaneous manufactured products,11,Air (incl truck and air),2017,0,S,0,S,0,S,1132,,0.0,S,0.0,S,0.0,S,0.2,
+2,19,0400000US19,Iowa,,0400000US38,North Dakota,22,Fertilizers,1,All modes,2017,84,,307,,170,,459,,48.3,,35.9,,32.1,,26.0,
+2,33,0400000US33,New Hampshire,,0400000US26,Michigan,34,Machinery,2,Single modes,2017,17,,0,Z,0,Z,1080,,44.2,,38.8,,40.4,,11.4,
+2,5,0400000US05,Arkansas,,0400000US26,Michigan,28,Paper or paperboard articles,13,Multiple modes,2017,0,S,0,S,0,S,939,,0.0,S,0.0,S,0.0,S,8.7,
+2,20,0400000US20,Kansas,,0400000US06,California,7,Other prepared foodstuffs and fats and oils,1,All modes,2017,246,,141,,246,,1665,,48.8,,41.5,,42.6,,2.7,
+2,10,0400000US10,Delaware,,0400000US34,New Jersey,18,Fuel oils,3,Truck,2017,14,,0,S,1,,44,,47.1,,0.0,S,48.0,,25.1,
+2,26,0400000US26,Michigan,,0400000US22,Louisiana,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",3,Truck,2017,2,,0,S,0,S,993,,5.4,,0.0,S,0.0,S,2.7,
+2,46,0400000US46,South Dakota,,0400000US23,Maine,33,Articles of base metal,13,Multiple modes,2017,0,Z,0,Z,0,Z,1755,,49.5,,2.4,,1.8,,0.6,
+2,9,0400000US09,Connecticut,,0400000US22,Louisiana,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",14,"Parcel, U.S.P.S. or courier",2017,0,Z,0,S,0,S,1468,,31.5,,0.0,S,0.0,S,2.4,
+2,56,0400000US56,Wyoming,,0400000US17,Illinois,6,"Milled grain products and preparations, and bakery products",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,22,0400000US22,Louisiana,,0400000US02,Alaska,35,"Electronic and other electrical equipment and components, and office equipment",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,33,0400000US33,New Hampshire,,0400000US17,Illinois,38,Precision instruments and apparatus,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,Z,1082,,0.0,S,42.4,,42.0,,1.1,
+2,44,0400000US44,Rhode Island,,0400000US33,New Hampshire,38,Precision instruments and apparatus,4,For-hire truck,2017,0,S,0,Z,0,Z,94,,0.0,S,29.0,,37.0,,10.9,
+2,9,0400000US09,Connecticut,,0400000US50,Vermont,20,Basic chemicals,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,50,0400000US50,Vermont,,0400000US53,Washington,36,Motorized and other vehicles (includes parts),4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,5,0400000US05,Arkansas,,0400000US25,Massachusetts,20,Basic chemicals,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,20,0400000US20,Kansas,,0400000US27,Minnesota,28,Paper or paperboard articles,3,Truck,2017,20,,7,,3,,527,,25.2,,19.0,,17.1,,6.8,
+2,54,0400000US54,West Virginia,,0400000US35,New Mexico,0,All Commodities,3,Truck,2017,0,S,0,S,0,S,1673,,0.0,S,0.0,S,0.0,S,4.5,
+2,19,0400000US19,Iowa,,0400000US16,Idaho,5,"Meat, poultry, fish, seafood, and their preparations",1,All modes,2017,0,S,5,,7,,1369,,0.0,S,44.6,,41.4,,4.4,
+2,12,0400000US12,Florida,,0400000US33,New Hampshire,26,Wood products,13,Multiple modes,2017,0,S,0,S,0,S,1518,,0.0,S,0.0,S,0.0,S,15.7,
+2,19,0400000US19,Iowa,,0400000US46,South Dakota,26,Wood products,3,Truck,2017,17,,13,,3,,263,,30.6,,47.0,,40.4,,21.5,
+2,6,0400000US06,California,,0400000US37,North Carolina,40,Miscellaneous manufactured products,14,"Parcel, U.S.P.S. or courier",2017,775,,13,,32,,2455,,26.8,,22.0,,22.3,,1.4,
+2,33,0400000US33,New Hampshire,,0400000US47,Tennessee,27,"Pulp, newsprint, paper, and paperboard",2,Single modes,2017,0,S,0,S,0,S,1231,,0.0,S,0.0,S,0.0,S,10.0,
+2,24,0400000US24,Maryland,,0400000US40,Oklahoma,4,"Animal feed, eggs, honey, and other products of animal origin",2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US53,Washington,4,"Animal feed, eggs, honey, and other products of animal origin",2,Single modes,2017,2,,0,S,0,S,1568,,32.7,,0.0,S,0.0,S,5.7,
+2,34,0400000US34,New Jersey,,0400000US26,Michigan,37,"Transportation equipment, not elsewhere classified",4,For-hire truck,2017,33,,0,Z,0,Z,756,,39.1,,24.4,,24.9,,0.8,
+2,49,0400000US49,Utah,,0400000US13,Georgia,41,Waste and scrap,2,Single modes,2017,0,S,0,S,0,S,1874,,0.0,S,0.0,S,0.0,S,0.3,
+2,38,0400000US38,North Dakota,,0400000US13,Georgia,30,"Textiles, leather, and articles of textiles or leather",14,"Parcel, U.S.P.S. or courier",2017,0,Z,0,Z,0,Z,1719,,37.8,,25.6,,30.0,,8.8,
+2,39,0400000US39,Ohio,,0400000US46,South Dakota,34,Machinery,4,For-hire truck,2017,40,,0,S,0,S,876,,42.8,,0.0,S,0.0,S,4.1,
+2,1,0400000US01,Alabama,,0400000US01,Alabama,4,"Animal feed, eggs, honey, and other products of animal origin",3,Truck,2017,622,,1791,,70,,52,,30.7,,34.6,,31.1,,14.1,
+2,29,0400000US29,Missouri,,0400000US42,Pennsylvania,32,Base metal in primary or semi-finished forms and in finished basic shapes,2,Single modes,2017,0,S,0,S,0,S,1095,,0.0,S,0.0,S,0.0,S,8.3,
+2,17,0400000US17,Illinois,,0400000US12,Florida,29,Printed products,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,42,0400000US42,Pennsylvania,,0400000US26,Michigan,32,Base metal in primary or semi-finished forms and in finished basic shapes,5,Company-owned truck,2017,0,S,0,S,0,S,329,,0.0,S,0.0,S,0.0,S,19.7,
+2,53,0400000US53,Washington,,0400000US42,Pennsylvania,38,Precision instruments and apparatus,13,Multiple modes,2017,147,,2,,5,,2726,,27.6,,38.1,,38.3,,0.8,
+2,54,0400000US54,West Virginia,,0400000US04,Arizona,37,"Transportation equipment, not elsewhere classified",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,31,0400000US31,Nebraska,,0400000US36,New York,23,"Other chemical products and preparations, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,1232,,0.0,S,0.0,S,0.0,S,0.7,
+2,20,0400000US20,Kansas,,0400000US37,North Carolina,40,Miscellaneous manufactured products,4,For-hire truck,2017,40,,3,,3,,1088,,36.3,,43.5,,45.4,,2.3,
+2,21,0400000US21,Kentucky,,0400000US05,Arkansas,43,Mixed freight,14,"Parcel, U.S.P.S. or courier",2017,0,Z,0,Z,0,S,460,,1.2,,34.3,,0.0,S,34.3,
+2,20,0400000US20,Kansas,,0400000US28,Mississippi,23,"Other chemical products and preparations, not elsewhere classified",2,Single modes,2017,0,S,0,Z,0,Z,701,,0.0,S,40.6,,41.1,,3.5,
+2,47,0400000US47,Tennessee,,0400000US30,Montana,34,Machinery,4,For-hire truck,2017,57,,8,,15,,1997,,43.4,,40.2,,40.2,,1.5,
+2,31,0400000US31,Nebraska,,0400000US54,West Virginia,34,Machinery,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,17,0400000US17,Illinois,,0400000US46,South Dakota,5,"Meat, poultry, fish, seafood, and their preparations",1,All modes,2017,75,,26,,13,,502,,31.6,,40.6,,38.3,,4.8,
+2,48,0400000US48,Texas,,0400000US05,Arkansas,28,Paper or paperboard articles,4,For-hire truck,2017,18,,9,,4,,399,,32.7,,45.8,,40.7,,9.0,
+2,18,0400000US18,Indiana,,0400000US42,Pennsylvania,34,Machinery,1,All modes,2017,359,,0,S,0,S,545,,19.8,,0.0,S,0.0,S,2.6,
+2,39,0400000US39,Ohio,,0400000US20,Kansas,34,Machinery,3,Truck,2017,0,S,0,S,0,S,842,,0.0,S,0.0,S,0.0,S,5.3,
+2,41,0400000US41,Oregon,,0400000US05,Arkansas,24,Plastics and rubber,1,All modes,2017,2,,0,S,0,S,2170,,41.8,,0.0,S,0.0,S,2.2,
+2,29,0400000US29,Missouri,,0400000US01,Alabama,29,Printed products,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,22,0400000US22,Louisiana,,0400000US40,Oklahoma,33,Articles of base metal,15,Truck and rail,2017,1,,0,Z,0,Z,847,,34.0,,4.6,,11.2,,9.4,
+2,39,0400000US39,Ohio,,0400000US42,Pennsylvania,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,47,0400000US47,Tennessee,,0400000US08,Colorado,33,Articles of base metal,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,38,0400000US38,North Dakota,,0400000US17,Illinois,34,Machinery,3,Truck,2017,150,,20,,16,,853,,27.2,,21.3,,20.4,,4.2,
+2,48,0400000US48,Texas,,0400000US48,Texas,23,"Other chemical products and preparations, not elsewhere classified",17,Rail and water,2017,0,S,0,S,0,S,133,,0.0,S,0.0,S,0.0,S,0.0,
+2,27,0400000US27,Minnesota,,0400000US53,Washington,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",17,Rail and water,2017,300,,0,S,0,S,2378,,40.7,,0.0,S,0.0,S,5.7,
+2,6,0400000US06,California,,0400000US08,Colorado,32,Base metal in primary or semi-finished forms and in finished basic shapes,6,Rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,48,0400000US48,Texas,,0400000US48,Texas,14,Metallic ores and concentrates,13,Multiple modes,2017,0,S,0,S,0,S,1068,,0.0,S,0.0,S,0.0,S,44.5,
+2,28,0400000US28,Mississippi,,0400000US06,California,35,"Electronic and other electrical equipment and components, and office equipment",13,Multiple modes,2017,222,,0,S,0,S,1867,,32.0,,0.0,S,0.0,S,1.3,
+2,26,0400000US26,Michigan,,0400000US22,Louisiana,27,"Pulp, newsprint, paper, and paperboard",2,Single modes,2017,6,,8,,9,,1080,,24.7,,22.2,,22.2,,3.4,
+2,15,0400000US15,Hawaii,,0400000US42,Pennsylvania,23,"Other chemical products and preparations, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,4944,,0.0,S,0.0,S,0.0,S,2.7,
+2,21,0400000US21,Kentucky,,0400000US09,Connecticut,30,"Textiles, leather, and articles of textiles or leather",3,Truck,2017,0,S,0,S,0,S,867,,0.0,S,0.0,S,0.0,S,4.6,
+2,26,0400000US26,Michigan,,0400000US48,Texas,8,Alcoholic beverages,2,Single modes,2017,3,,0,S,0,S,1203,,23.2,,0.0,S,0.0,S,0.0,Z
+2,27,0400000US27,Minnesota,,0400000US23,Maine,0,All Commodities,4,For-hire truck,2017,132,,43,,70,,1626,,31.6,,31.8,,32.3,,1.3,
+2,53,0400000US53,Washington,,0400000US28,Mississippi,38,Precision instruments and apparatus,2,Single modes,2017,5,,0,Z,0,Z,2079,,45.1,,49.3,,49.7,,5.5,
+2,34,0400000US34,New Jersey,,0400000US22,Louisiana,43,Mixed freight,13,Multiple modes,2017,0,S,0,S,0,S,1326,,0.0,S,0.0,S,0.0,S,0.7,
+2,10,0400000US10,Delaware,,0400000US25,Massachusetts,35,"Electronic and other electrical equipment and components, and office equipment",13,Multiple modes,2017,0,S,0,S,0,S,352,,0.0,S,0.0,S,0.0,S,6.3,
+2,38,0400000US38,North Dakota,,0400000US19,Iowa,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,44,0400000US44,Rhode Island,,0400000US45,South Carolina,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,S,878,,0.0,S,49.8,,0.0,S,2.5,
+2,4,0400000US04,Arizona,,0400000US19,Iowa,35,"Electronic and other electrical equipment and components, and office equipment",14,"Parcel, U.S.P.S. or courier",2017,32,,0,S,0,S,1554,,47.7,,0.0,S,0.0,S,2.0,
+2,41,0400000US41,Oregon,,0400000US17,Illinois,32,Base metal in primary or semi-finished forms and in finished basic shapes,13,Multiple modes,2017,0,S,0,S,0,S,1998,,0.0,S,0.0,S,0.0,S,3.4,
+2,53,0400000US53,Washington,,0400000US30,Montana,33,Articles of base metal,1,All modes,2017,137,,66,,39,,520,,27.2,,31.1,,33.5,,7.6,
+2,41,0400000US41,Oregon,,0400000US18,Indiana,6,"Milled grain products and preparations, and bakery products",3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,37,0400000US37,North Carolina,,0400000US21,Kentucky,35,"Electronic and other electrical equipment and components, and office equipment",2,Single modes,2017,84,,6,,2,,442,,25.9,,39.6,,37.7,,13.6,
+2,18,0400000US18,Indiana,,0400000US04,Arizona,0,All Commodities,6,Rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,30,0400000US30,Montana,,0400000US06,California,20,Basic chemicals,4,For-hire truck,2017,1,,0,S,0,S,1208,,21.9,,0.0,S,0.0,S,5.9,
+2,12,0400000US12,Florida,,0400000US42,Pennsylvania,33,Articles of base metal,3,Truck,2017,38,,17,,17,,928,,19.2,,35.7,,37.5,,4.3,
+2,45,0400000US45,South Carolina,,0400000US21,Kentucky,21,Pharmaceutical products,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,22,0400000US22,Louisiana,,0400000US41,Oregon,27,"Pulp, newsprint, paper, and paperboard",4,For-hire truck,2017,0,S,0,S,0,S,2281,,0.0,S,0.0,S,0.0,S,0.6,
+2,19,0400000US19,Iowa,,0400000US48,Texas,34,Machinery,2,Single modes,2017,1068,,87,,86,,962,,19.7,,25.7,,25.2,,3.0,
+2,54,0400000US54,West Virginia,,0400000US54,West Virginia,40,Miscellaneous manufactured products,2,Single modes,2017,89,,5,,0,Z,50,,36.3,,40.7,,38.1,,32.2,
+2,27,0400000US27,Minnesota,,0400000US47,Tennessee,11,Natural sands,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,48,0400000US48,Texas,,0400000US11,District of Columbia,23,"Other chemical products and preparations, not elsewhere classified",4,For-hire truck,2017,0,S,0,S,0,S,1338,,0.0,S,0.0,S,0.0,S,0.2,
+2,1,0400000US01,Alabama,,0400000US41,Oregon,26,Wood products,4,For-hire truck,2017,0,S,0,S,0,S,2557,,0.0,S,0.0,S,0.0,S,2.6,
+2,34,0400000US34,New Jersey,,0400000US17,Illinois,9,Tobacco products,13,Multiple modes,2017,0,S,0,S,0,S,819,,0.0,S,0.0,S,0.0,S,4.4,
+2,41,0400000US41,Oregon,,0400000US32,Nevada,23,"Other chemical products and preparations, not elsewhere classified",3,Truck,2017,0,S,0,S,0,S,817,,0.0,S,0.0,S,0.0,S,17.4,
+2,45,0400000US45,South Carolina,,0400000US23,Maine,40,Miscellaneous manufactured products,1,All modes,2017,18,,0,S,0,S,1042,,42.6,,0.0,S,0.0,S,4.1,
+2,41,0400000US41,Oregon,,0400000US15,Hawaii,26,Wood products,1,All modes,2017,0,S,0,S,0,S,2598,,0.0,S,0.0,S,0.0,S,3.7,
+2,33,0400000US33,New Hampshire,,0400000US37,North Carolina,28,Paper or paperboard articles,4,For-hire truck,2017,2,,0,S,0,S,832,,26.5,,0.0,S,0.0,S,5.3,
+2,38,0400000US38,North Dakota,,0400000US36,New York,33,Articles of base metal,4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,35,0400000US35,New Mexico,,0400000US08,Colorado,22,Fertilizers,2,Single modes,2017,0,S,0,S,0,S,422,,0.0,S,0.0,S,0.0,S,10.9,
+2,15,0400000US15,Hawaii,,0400000US47,Tennessee,40,Miscellaneous manufactured products,2,Single modes,2017,0,Z,0,S,0,S,4474,,37.3,,0.0,S,0.0,S,1.8,
+2,55,0400000US55,Wisconsin,,0400000US56,Wyoming,5,"Meat, poultry, fish, seafood, and their preparations",3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,6,0400000US06,California,,0400000US55,Wisconsin,37,"Transportation equipment, not elsewhere classified",14,"Parcel, U.S.P.S. or courier",2017,22,,0,Z,0,Z,2122,,44.2,,39.0,,39.0,,0.7,
+2,10,0400000US10,Delaware,,0400000US27,Minnesota,35,"Electronic and other electrical equipment and components, and office equipment",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,44,0400000US44,Rhode Island,,0400000US36,New York,30,"Textiles, leather, and articles of textiles or leather",5,Company-owned truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,41,0400000US41,Oregon,,0400000US40,Oklahoma,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",13,Multiple modes,2017,0,Z,0,Z,0,Z,1944,,30.0,,16.8,,19.2,,3.1,
+2,55,0400000US55,Wisconsin,,0400000US56,Wyoming,36,Motorized and other vehicles (includes parts),3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,19,0400000US19,Iowa,,0400000US40,Oklahoma,43,Mixed freight,13,Multiple modes,2017,9,,0,Z,0,Z,604,,34.0,,42.2,,45.4,,3.3,
+2,6,0400000US06,California,,0400000US51,Virginia,24,Plastics and rubber,4,For-hire truck,2017,84,,13,,34,,2590,,37.7,,40.4,,39.3,,1.6,
+2,6,0400000US06,California,,0400000US04,Arizona,1,Animals and fish (live),2,Single modes,2017,0,Z,0,S,0,S,658,,29.4,,0.0,S,0.0,S,32.7,
+2,53,0400000US53,Washington,,0400000US47,Tennessee,7,Other prepared foodstuffs and fats and oils,13,Multiple modes,2017,0,S,0,S,0,S,2578,,0.0,S,0.0,S,0.0,S,5.0,
+2,9,0400000US09,Connecticut,,0400000US12,Florida,36,Motorized and other vehicles (includes parts),4,For-hire truck,2017,0,S,0,S,0,S,1362,,0.0,S,0.0,S,0.0,S,4.0,
+2,6,0400000US06,California,,0400000US05,Arkansas,40,Miscellaneous manufactured products,1,All modes,2017,275,,19,,30,,1598,,23.5,,30.1,,29.6,,2.1,
+2,12,0400000US12,Florida,,0400000US55,Wisconsin,20,Basic chemicals,3,Truck,2017,38,,23,,28,,1226,,4.8,,14.3,,3.7,,8.9,
+2,21,0400000US21,Kentucky,,0400000US36,New York,43,Mixed freight,3,Truck,2017,42,,3,,2,,654,,32.5,,20.5,,20.2,,5.0,
+2,35,0400000US35,New Mexico,,0400000US24,Maryland,31,Non-metallic mineral products,2,Single modes,2017,0,S,0,S,0,S,1875,,0.0,S,0.0,S,0.0,S,2.7,
+2,22,0400000US22,Louisiana,,0400000US05,Arkansas,35,"Electronic and other electrical equipment and components, and office equipment",3,Truck,2017,0,S,2,,0,S,382,,0.0,S,45.9,,0.0,S,12.8,
+2,4,0400000US04,Arizona,,0400000US27,Minnesota,26,Wood products,4,For-hire truck,2017,0,S,0,Z,0,Z,1637,,0.0,S,43.2,,43.4,,0.3,
+2,42,0400000US42,Pennsylvania,,0400000US12,Florida,9,Tobacco products,3,Truck,2017,0,S,0,S,0,S,1148,,0.0,S,0.0,S,0.0,S,3.9,
+2,34,0400000US34,New Jersey,,0400000US09,Connecticut,21,Pharmaceutical products,13,Multiple modes,2017,0,S,0,Z,0,Z,163,,0.0,S,41.7,,35.0,,9.6,
+2,31,0400000US31,Nebraska,,0400000US38,North Dakota,0,All Commodities,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,39,0400000US39,Ohio,,0400000US50,Vermont,37,"Transportation equipment, not elsewhere classified",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,Z,560,,0.0,S,47.4,,43.3,,5.2,
+2,22,0400000US22,Louisiana,,0400000US48,Texas,43,Mixed freight,5,Company-owned truck,2017,453,,113,,19,,193,,38.6,,37.7,,36.5,,3.8,
+2,17,0400000US17,Illinois,,0400000US27,Minnesota,25,Logs and other wood in the rough,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,23,0400000US23,Maine,,0400000US12,Florida,28,Paper or paperboard articles,2,Single modes,2017,12,,0,S,0,S,1471,,37.4,,0.0,S,0.0,S,2.8,
+2,34,0400000US34,New Jersey,,0400000US11,District of Columbia,31,Non-metallic mineral products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,33,0400000US33,New Hampshire,,0400000US25,Massachusetts,35,"Electronic and other electrical equipment and components, and office equipment",4,For-hire truck,2017,92,,0,S,0,S,62,,31.5,,0.0,S,0.0,S,13.8,
+2,6,0400000US06,California,,0400000US41,Oregon,14,Metallic ores and concentrates,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,8,0400000US08,Colorado,,0400000US39,Ohio,37,"Transportation equipment, not elsewhere classified",11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,34,0400000US34,New Jersey,,0400000US09,Connecticut,13,"Other non-metallic minerals, not elsewhere classified",4,For-hire truck,2017,0,S,0,S,0,Z,0,S,0.0,S,0.0,S,39.0,,0.0,S
+2,18,0400000US18,Indiana,,0400000US56,Wyoming,26,Wood products,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,34,0400000US34,New Jersey,,0400000US13,Georgia,35,"Electronic and other electrical equipment and components, and office equipment",4,For-hire truck,2017,283,,12,,10,,853,,43.1,,44.5,,46.2,,1.6,
+2,8,0400000US08,Colorado,,0400000US35,New Mexico,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",3,Truck,2017,23,,51,,16,,294,,28.4,,24.2,,23.2,,24.1,
+2,34,0400000US34,New Jersey,,0400000US40,Oklahoma,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",14,"Parcel, U.S.P.S. or courier",2017,2,,0,S,0,S,1420,,38.0,,0.0,S,0.0,S,1.7,
+2,13,0400000US13,Georgia,,0400000US51,Virginia,19,"Other coal and petroleum products, not elsewhere classified",13,Multiple modes,2017,0,S,0,S,0,S,447,,0.0,S,0.0,S,0.0,S,7.0,
+2,21,0400000US21,Kentucky,,0400000US10,Delaware,36,Motorized and other vehicles (includes parts),14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,692,,0.0,S,0.0,S,0.0,S,8.0,
+2,48,0400000US48,Texas,,0400000US29,Missouri,6,"Milled grain products and preparations, and bakery products",3,Truck,2017,0,S,59,,0,S,501,,0.0,S,48.2,,0.0,S,11.3,
+2,25,0400000US25,Massachusetts,,0400000US09,Connecticut,5,"Meat, poultry, fish, seafood, and their preparations",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,17,0400000US17,Illinois,,0400000US50,Vermont,7,Other prepared foodstuffs and fats and oils,2,Single modes,2017,0,S,0,S,0,S,1027,,0.0,S,0.0,S,0.0,S,6.5,
+2,6,0400000US06,California,,0400000US42,Pennsylvania,23,"Other chemical products and preparations, not elsewhere classified",4,For-hire truck,2017,518,,0,S,0,S,2541,,44.9,,0.0,S,0.0,S,1.7,
+2,53,0400000US53,Washington,,0400000US22,Louisiana,43,Mixed freight,2,Single modes,2017,0,S,0,S,0,S,2555,,0.0,S,0.0,S,0.0,S,2.7,
+2,53,0400000US53,Washington,,0400000US32,Nevada,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,38,0400000US38,North Dakota,,0400000US35,New Mexico,35,"Electronic and other electrical equipment and components, and office equipment",4,For-hire truck,2017,1,,0,S,0,S,1262,,22.3,,0.0,S,0.0,S,3.8,
+2,50,0400000US50,Vermont,,0400000US30,Montana,36,Motorized and other vehicles (includes parts),14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,2186,,0.0,S,0.0,S,0.0,S,0.0,
+2,17,0400000US17,Illinois,,0400000US17,Illinois,5,"Meat, poultry, fish, seafood, and their preparations",3,Truck,2017,6604,,1538,,101,,24,,14.8,,15.4,,17.6,,8.2,
+2,55,0400000US55,Wisconsin,,0400000US26,Michigan,11,Natural sands,3,Truck,2017,0,S,0,S,0,S,191,,0.0,S,0.0,S,0.0,S,11.0,
+2,44,0400000US44,Rhode Island,,0400000US36,New York,1,Animals and fish (live),3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,13,0400000US13,Georgia,,0400000US12,Florida,24,Plastics and rubber,16,Truck and water,2017,0,S,6,,4,,715,,0.0,S,26.4,,39.4,,6.3,
+2,37,0400000US37,North Carolina,,0400000US01,Alabama,32,Base metal in primary or semi-finished forms and in finished basic shapes,2,Single modes,2017,86,,45,,23,,488,,38.0,,36.4,,43.0,,2.7,
+2,48,0400000US48,Texas,,0400000US12,Florida,26,Wood products,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,36,0400000US36,New York,,0400000US42,Pennsylvania,40,Miscellaneous manufactured products,5,Company-owned truck,2017,0,S,0,S,0,S,127,,0.0,S,0.0,S,0.0,S,14.9,
+2,12,0400000US12,Florida,,0400000US45,South Carolina,9,Tobacco products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,605,,0.0,S,0.0,S,0.0,S,15.6,
+2,42,0400000US42,Pennsylvania,,0400000US25,Massachusetts,34,Machinery,5,Company-owned truck,2017,0,S,0,S,0,S,363,,0.0,S,0.0,S,0.0,S,7.8,
+2,28,0400000US28,Mississippi,,0400000US01,Alabama,0,All Commodities,4,For-hire truck,2017,4154,,3449,,587,,188,,18.2,,19.8,,15.8,,6.8,
+2,40,0400000US40,Oklahoma,,0400000US27,Minnesota,38,Precision instruments and apparatus,1,All modes,2017,0,S,0,S,0,S,744,,0.0,S,0.0,S,0.0,S,9.6,
+2,48,0400000US48,Texas,,0400000US42,Pennsylvania,22,Fertilizers,1,All modes,2017,0,S,0,S,0,S,1667,,0.0,S,0.0,S,0.0,S,5.5,
+2,28,0400000US28,Mississippi,,0400000US18,Indiana,26,Wood products,2,Single modes,2017,60,,131,,87,,665,,10.0,,13.1,,16.5,,3.4,
+2,9,0400000US09,Connecticut,,0400000US24,Maryland,30,"Textiles, leather, and articles of textiles or leather",4,For-hire truck,2017,0,S,0,S,0,S,274,,0.0,S,0.0,S,0.0,S,14.9,
+2,1,0400000US01,Alabama,,0400000US34,New Jersey,20,Basic chemicals,3,Truck,2017,0,S,5,,4,,907,,0.0,S,41.2,,40.8,,2.5,
+2,8,0400000US08,Colorado,,0400000US01,Alabama,37,"Transportation equipment, not elsewhere classified",3,Truck,2017,0,S,0,Z,0,Z,1294,,0.0,S,34.1,,34.5,,7.0,
+2,18,0400000US18,Indiana,,0400000US16,Idaho,22,Fertilizers,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,12,0400000US12,Florida,,0400000US30,Montana,43,Mixed freight,4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,30,0400000US30,Montana,,0400000US41,Oregon,33,Articles of base metal,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,13,0400000US13,Georgia,,0400000US12,Florida,38,Precision instruments and apparatus,2,Single modes,2017,0,S,0,S,0,S,454,,0.0,S,0.0,S,0.0,S,29.0,
+2,51,0400000US51,Virginia,,0400000US13,Georgia,38,Precision instruments and apparatus,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,565,,0.0,S,0.0,S,0.0,S,2.2,
+2,9,0400000US09,Connecticut,,0400000US48,Texas,34,Machinery,3,Truck,2017,0,S,4,,7,,1834,,0.0,S,26.0,,26.1,,2.3,
+2,45,0400000US45,South Carolina,,0400000US13,Georgia,34,Machinery,11,Air (incl truck and air),2017,180,,0,S,0,S,1372,,47.9,,0.0,S,0.0,S,3.7,
+2,39,0400000US39,Ohio,,0400000US19,Iowa,27,"Pulp, newsprint, paper, and paperboard",4,For-hire truck,2017,33,,29,,19,,624,,33.3,,32.6,,37.7,,5.1,
+2,21,0400000US21,Kentucky,,0400000US50,Vermont,28,Paper or paperboard articles,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,40,0400000US40,Oklahoma,,0400000US06,California,40,Miscellaneous manufactured products,3,Truck,2017,0,S,30,,45,,1559,,0.0,S,48.1,,48.2,,3.0,
+2,13,0400000US13,Georgia,,0400000US18,Indiana,24,Plastics and rubber,14,"Parcel, U.S.P.S. or courier",2017,88,,2,,1,,616,,47.9,,43.5,,44.8,,6.0,
+2,39,0400000US39,Ohio,,0400000US54,West Virginia,15,Coal,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,39,0400000US39,Ohio,,0400000US53,Washington,30,"Textiles, leather, and articles of textiles or leather",1,All modes,2017,157,,5,,13,,2370,,28.3,,28.4,,28.9,,0.8,
+2,30,0400000US30,Montana,,0400000US06,California,40,Miscellaneous manufactured products,13,Multiple modes,2017,83,,1,,1,,1115,,38.9,,38.8,,39.3,,1.9,
+2,37,0400000US37,North Carolina,,0400000US26,Michigan,35,"Electronic and other electrical equipment and components, and office equipment",1,All modes,2017,406,,15,,10,,698,,21.6,,34.5,,34.1,,1.9,
+2,42,0400000US42,Pennsylvania,,0400000US04,Arizona,28,Paper or paperboard articles,4,For-hire truck,2017,21,,0,S,0,S,2205,,21.6,,0.0,S,0.0,S,2.3,
+2,37,0400000US37,North Carolina,,0400000US31,Nebraska,34,Machinery,13,Multiple modes,2017,4,,0,Z,0,Z,1213,,45.4,,24.7,,24.0,,3.0,
+2,49,0400000US49,Utah,,0400000US56,Wyoming,34,Machinery,14,"Parcel, U.S.P.S. or courier",2017,11,,0,Z,0,Z,239,,42.0,,38.7,,46.3,,13.6,
+2,47,0400000US47,Tennessee,,0400000US55,Wisconsin,37,"Transportation equipment, not elsewhere classified",2,Single modes,2017,0,S,0,S,0,S,841,,0.0,S,0.0,S,0.0,S,6.0,
+2,18,0400000US18,Indiana,,0400000US33,New Hampshire,19,"Other coal and petroleum products, not elsewhere classified",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,Z,1009,,0.0,S,46.3,,46.7,,7.3,
+2,13,0400000US13,Georgia,,0400000US54,West Virginia,29,Printed products,3,Truck,2017,0,S,0,S,0,S,436,,0.0,S,0.0,S,0.0,S,16.4,
+2,55,0400000US55,Wisconsin,,0400000US06,California,13,"Other non-metallic minerals, not elsewhere classified",2,Single modes,2017,3,,0,S,0,S,2167,,48.7,,0.0,S,0.0,S,2.9,
+2,45,0400000US45,South Carolina,,0400000US42,Pennsylvania,34,Machinery,4,For-hire truck,2017,231,,18,,10,,613,,32.5,,45.1,,43.3,,2.3,
+2,21,0400000US21,Kentucky,,0400000US39,Ohio,28,Paper or paperboard articles,14,"Parcel, U.S.P.S. or courier",2017,5,,1,,0,Z,235,,27.1,,36.8,,42.2,,10.7,
+2,29,0400000US29,Missouri,,0400000US16,Idaho,24,Plastics and rubber,3,Truck,2017,0,S,0,Z,0,Z,1583,,0.0,S,13.3,,12.2,,1.2,
+2,25,0400000US25,Massachusetts,,0400000US49,Utah,30,"Textiles, leather, and articles of textiles or leather",2,Single modes,2017,7,,0,Z,1,,2275,,41.2,,45.2,,44.1,,2.4,
+2,22,0400000US22,Louisiana,,0400000US53,Washington,22,Fertilizers,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,28,0400000US28,Mississippi,,0400000US05,Arkansas,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,4,,0,Z,0,Z,332,,45.8,,31.0,,45.5,,22.6,
+2,13,0400000US13,Georgia,,0400000US13,Georgia,23,"Other chemical products and preparations, not elsewhere classified",10,Deep sea,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,6,0400000US06,California,,0400000US53,Washington,31,Non-metallic mineral products,3,Truck,2017,383,,407,,380,,1014,,15.7,,14.3,,15.0,,4.8,
+2,50,0400000US50,Vermont,,0400000US40,Oklahoma,40,Miscellaneous manufactured products,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US53,Washington,24,Plastics and rubber,4,For-hire truck,2017,29,,7,,12,,1635,,22.4,,29.8,,30.1,,1.4,
+2,26,0400000US26,Michigan,,0400000US22,Louisiana,0,All Commodities,6,Rail,2017,0,S,0,S,0,S,1260,,0.0,S,0.0,S,0.0,S,6.5,
+2,15,0400000US15,Hawaii,,0400000US30,Montana,40,Miscellaneous manufactured products,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,30,0400000US30,Montana,,0400000US45,South Carolina,40,Miscellaneous manufactured products,4,For-hire truck,2017,0,S,0,S,0,S,2088,,0.0,S,0.0,S,0.0,S,6.3,
+2,16,0400000US16,Idaho,,0400000US28,Mississippi,34,Machinery,2,Single modes,2017,0,S,0,S,0,S,1958,,0.0,S,0.0,S,0.0,S,15.6,
+2,36,0400000US36,New York,,0400000US25,Massachusetts,18,Fuel oils,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US38,North Dakota,34,Machinery,3,Truck,2017,498,,53,,21,,373,,25.6,,32.0,,40.8,,5.4,
+2,27,0400000US27,Minnesota,,0400000US31,Nebraska,38,Precision instruments and apparatus,11,Air (incl truck and air),2017,0,S,0,Z,0,Z,1450,,0.0,S,6.8,,6.4,,5.7,
+2,49,0400000US49,Utah,,0400000US16,Idaho,23,"Other chemical products and preparations, not elsewhere classified",2,Single modes,2017,11,,2,,1,,221,,31.6,,28.0,,29.8,,29.6,
+2,5,0400000US05,Arkansas,,0400000US45,South Carolina,8,Alcoholic beverages,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,37,0400000US37,North Carolina,,0400000US18,Indiana,31,Non-metallic mineral products,4,For-hire truck,2017,67,,45,,27,,568,,22.8,,22.7,,22.6,,2.4,
+2,26,0400000US26,Michigan,,0400000US44,Rhode Island,27,"Pulp, newsprint, paper, and paperboard",4,For-hire truck,2017,4,,1,,2,,1186,,27.6,,15.9,,16.0,,0.3,
+2,40,0400000US40,Oklahoma,,0400000US19,Iowa,36,Motorized and other vehicles (includes parts),4,For-hire truck,2017,5,,0,S,0,S,652,,40.6,,0.0,S,0.0,S,8.1,
+2,17,0400000US17,Illinois,,0400000US09,Connecticut,7,Other prepared foodstuffs and fats and oils,1,All modes,2017,0,S,0,S,0,S,910,,0.0,S,0.0,S,0.0,S,2.3,
+2,29,0400000US29,Missouri,,0400000US40,Oklahoma,21,Pharmaceutical products,2,Single modes,2017,0,S,0,S,0,S,475,,0.0,S,0.0,S,0.0,S,15.9,
+2,27,0400000US27,Minnesota,,0400000US17,Illinois,40,Miscellaneous manufactured products,5,Company-owned truck,2017,0,S,0,S,0,S,388,,0.0,S,0.0,S,0.0,S,14.3,
+2,55,0400000US55,Wisconsin,,0400000US23,Maine,6,"Milled grain products and preparations, and bakery products",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,5,0400000US05,Arkansas,,0400000US42,Pennsylvania,28,Paper or paperboard articles,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,19,0400000US19,Iowa,,0400000US27,Minnesota,30,"Textiles, leather, and articles of textiles or leather",14,"Parcel, U.S.P.S. or courier",2017,22,,0,Z,0,Z,332,,30.5,,33.8,,34.5,,4.8,
+2,17,0400000US17,Illinois,,0400000US47,Tennessee,29,Printed products,1,All modes,2017,145,,31,,15,,526,,18.7,,20.4,,20.2,,2.1,
+2,34,0400000US34,New Jersey,,0400000US51,Virginia,40,Miscellaneous manufactured products,5,Company-owned truck,2017,0,S,0,Z,0,Z,221,,0.0,S,40.6,,44.1,,7.2,
+2,12,0400000US12,Florida,,0400000US42,Pennsylvania,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",4,For-hire truck,2017,0,S,0,S,0,S,919,,0.0,S,0.0,S,0.0,S,4.8,
+2,23,0400000US23,Maine,,0400000US48,Texas,29,Printed products,13,Multiple modes,2017,0,S,0,S,0,S,2018,,0.0,S,0.0,S,0.0,S,2.5,
+2,17,0400000US17,Illinois,,0400000US39,Ohio,32,Base metal in primary or semi-finished forms and in finished basic shapes,13,Multiple modes,2017,52,,0,S,0,S,405,,48.3,,0.0,S,0.0,S,4.2,
+2,28,0400000US28,Mississippi,,0400000US45,South Carolina,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,Z,639,,0.0,S,43.1,,43.2,,5.4,
+2,22,0400000US22,Louisiana,,0400000US39,Ohio,18,Fuel oils,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,31,0400000US31,Nebraska,,0400000US38,North Dakota,33,Articles of base metal,3,Truck,2017,11,,0,S,0,S,609,,47.1,,0.0,S,0.0,S,4.9,
+2,29,0400000US29,Missouri,,0400000US13,Georgia,9,Tobacco products,2,Single modes,2017,0,S,0,S,0,S,646,,0.0,S,0.0,S,0.0,S,9.4,
+2,37,0400000US37,North Carolina,,0400000US26,Michigan,43,Mixed freight,4,For-hire truck,2017,9,,1,,0,S,715,,42.1,,46.4,,0.0,S,4.6,
+2,35,0400000US35,New Mexico,,0400000US48,Texas,40,Miscellaneous manufactured products,13,Multiple modes,2017,0,S,0,S,0,S,719,,0.0,S,0.0,S,0.0,S,13.6,
+2,24,0400000US24,Maryland,,0400000US06,California,6,"Milled grain products and preparations, and bakery products",2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,24,0400000US24,Maryland,,0400000US01,Alabama,19,"Other coal and petroleum products, not elsewhere classified",3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,29,0400000US29,Missouri,,0400000US34,New Jersey,30,"Textiles, leather, and articles of textiles or leather",18,Other multiple modes,2017,0,S,0,S,0,S,1567,,0.0,S,0.0,S,0.0,S,0.0,
+2,36,0400000US36,New York,,0400000US32,Nevada,4,"Animal feed, eggs, honey, and other products of animal origin",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,11,0400000US11,District of Columbia,,0400000US13,Georgia,0,All Commodities,3,Truck,2017,18,,10,,7,,666,,3.7,,47.2,,49.9,,3.8,
+2,50,0400000US50,Vermont,,0400000US33,New Hampshire,13,"Other non-metallic minerals, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,28,0400000US28,Mississippi,,0400000US10,Delaware,0,All Commodities,2,Single modes,2017,73,,32,,34,,1033,,26.6,,27.3,,27.8,,2.1,
+2,25,0400000US25,Massachusetts,,0400000US13,Georgia,27,"Pulp, newsprint, paper, and paperboard",14,"Parcel, U.S.P.S. or courier",2017,1,,0,Z,0,Z,1057,,37.4,,41.3,,41.7,,3.0,
+2,13,0400000US13,Georgia,,0400000US12,Florida,20,Basic chemicals,15,Truck and rail,2017,0,S,0,S,0,S,398,,0.0,S,0.0,S,0.0,S,3.1,
+2,27,0400000US27,Minnesota,,0400000US13,Georgia,5,"Meat, poultry, fish, seafood, and their preparations",1,All modes,2017,101,,25,,31,,1156,,34.8,,39.1,,38.8,,3.3,
+2,26,0400000US26,Michigan,,0400000US49,Utah,43,Mixed freight,4,For-hire truck,2017,0,S,0,S,0,S,1695,,0.0,S,0.0,S,0.0,S,2.1,
+2,47,0400000US47,Tennessee,,0400000US42,Pennsylvania,21,Pharmaceutical products,3,Truck,2017,0,S,3,,0,S,803,,0.0,S,46.7,,0.0,S,10.2,
+2,27,0400000US27,Minnesota,,0400000US48,Texas,5,"Meat, poultry, fish, seafood, and their preparations",4,For-hire truck,2017,352,,172,,199,,1166,,20.6,,30.4,,31.4,,2.2,
+2,25,0400000US25,Massachusetts,,0400000US31,Nebraska,33,Articles of base metal,1,All modes,2017,8,,1,,1,,1446,,33.7,,42.2,,43.0,,1.0,
+2,34,0400000US34,New Jersey,,0400000US54,West Virginia,31,Non-metallic mineral products,1,All modes,2017,40,,0,S,6,,392,,44.3,,0.0,S,48.7,,9.1,
+2,49,0400000US49,Utah,,0400000US45,South Carolina,32,Base metal in primary or semi-finished forms and in finished basic shapes,1,All modes,2017,0,S,0,S,0,S,1998,,0.0,S,0.0,S,0.0,S,4.1,
+2,47,0400000US47,Tennessee,,0400000US48,Texas,38,Precision instruments and apparatus,11,Air (incl truck and air),2017,0,S,0,S,0,Z,479,,0.0,S,0.0,S,49.2,,5.3,
+2,6,0400000US06,California,,0400000US16,Idaho,40,Miscellaneous manufactured products,1,All modes,2017,427,,0,S,0,S,955,,36.2,,0.0,S,0.0,S,4.4,
+2,11,0400000US11,District of Columbia,,0400000US42,Pennsylvania,20,Basic chemicals,13,Multiple modes,2017,2,,0,Z,0,Z,235,,6.2,,20.4,,16.1,,4.6,
+2,1,0400000US01,Alabama,,0400000US06,California,20,Basic chemicals,2,Single modes,2017,13,,0,S,0,S,2330,,35.6,,0.0,S,0.0,S,4.4,
+2,47,0400000US47,Tennessee,,0400000US10,Delaware,34,Machinery,13,Multiple modes,2017,0,Z,0,S,0,S,629,,25.0,,0.0,S,0.0,S,12.9,
+2,17,0400000US17,Illinois,,0400000US29,Missouri,41,Waste and scrap,1,All modes,2017,52,,51,,0,S,205,,35.6,,47.1,,0.0,S,25.1,
+2,15,0400000US15,Hawaii,,0400000US55,Wisconsin,23,"Other chemical products and preparations, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,4947,,0.0,S,0.0,S,0.0,S,0.7,
+2,42,0400000US42,Pennsylvania,,0400000US06,California,10,Monumental or building stone,2,Single modes,2017,5,,0,S,0,S,2789,,49.9,,0.0,S,0.0,S,1.2,
+2,19,0400000US19,Iowa,,0400000US39,Ohio,21,Pharmaceutical products,13,Multiple modes,2017,0,S,0,S,0,S,652,,0.0,S,0.0,S,0.0,S,9.9,
+2,41,0400000US41,Oregon,,0400000US09,Connecticut,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",1,All modes,2017,0,S,0,S,0,S,3039,,0.0,S,0.0,S,0.0,S,0.4,
+2,16,0400000US16,Idaho,,0400000US30,Montana,41,Waste and scrap,2,Single modes,2017,8,,1,,1,,550,,5.8,,5.6,,5.6,,0.0,
+2,39,0400000US39,Ohio,,0400000US47,Tennessee,7,Other prepared foodstuffs and fats and oils,5,Company-owned truck,2017,4,,0,S,0,S,348,,40.9,,0.0,S,0.0,S,7.8,
+2,54,0400000US54,West Virginia,,0400000US18,Indiana,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",1,All modes,2017,22,,5,,3,,498,,27.9,,28.5,,28.5,,5.1,
+2,17,0400000US17,Illinois,,0400000US55,Wisconsin,8,Alcoholic beverages,15,Truck and rail,2017,6,,10,,4,,352,,26.2,,22.8,,35.2,,14.2,
+2,16,0400000US16,Idaho,,0400000US36,New York,26,Wood products,2,Single modes,2017,4,,0,S,0,S,2465,,48.1,,0.0,S,0.0,S,2.4,
+2,48,0400000US48,Texas,,0400000US36,New York,10,Monumental or building stone,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,22,0400000US22,Louisiana,,0400000US18,Indiana,35,"Electronic and other electrical equipment and components, and office equipment",13,Multiple modes,2017,0,S,0,Z,0,Z,817,,0.0,S,46.5,,44.1,,5.4,
+2,6,0400000US06,California,,0400000US24,Maryland,5,"Meat, poultry, fish, seafood, and their preparations",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,8,0400000US08,Colorado,,0400000US23,Maine,30,"Textiles, leather, and articles of textiles or leather",13,Multiple modes,2017,0,S,0,S,0,S,2157,,0.0,S,0.0,S,0.0,S,1.8,
+2,2,0400000US02,Alaska,,0400000US33,New Hampshire,30,"Textiles, leather, and articles of textiles or leather",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,25,0400000US25,Massachusetts,,0400000US04,Arizona,4,"Animal feed, eggs, honey, and other products of animal origin",13,Multiple modes,2017,7,,0,S,0,S,2687,,33.2,,0.0,S,0.0,S,0.9,
+2,41,0400000US41,Oregon,,0400000US53,Washington,18,Fuel oils,4,For-hire truck,2017,40,,83,,0,S,175,,43.0,,43.9,,0.0,S,41.2,
+2,34,0400000US34,New Jersey,,0400000US49,Utah,0,All Commodities,15,Truck and rail,2017,0,S,3,,7,,2751,,0.0,S,32.7,,35.2,,4.6,
+2,21,0400000US21,Kentucky,,0400000US51,Virginia,8,Alcoholic beverages,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,6,0400000US06,California,,0400000US12,Florida,29,Printed products,13,Multiple modes,2017,47,,1,,4,,2680,,31.6,,32.3,,31.6,,1.2,
+2,25,0400000US25,Massachusetts,,0400000US24,Maryland,40,Miscellaneous manufactured products,4,For-hire truck,2017,48,,3,,1,,394,,45.4,,35.4,,34.9,,3.1,
+2,38,0400000US38,North Dakota,,0400000US41,Oregon,23,"Other chemical products and preparations, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,1324,,0.0,S,0.0,S,0.0,S,6.8,
+2,30,0400000US30,Montana,,0400000US53,Washington,41,Waste and scrap,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,25,0400000US25,Massachusetts,,0400000US47,Tennessee,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",4,For-hire truck,2017,8,,0,S,0,S,1007,,44.5,,0.0,S,0.0,S,6.0,
+2,15,0400000US15,Hawaii,,0400000US36,New York,5,"Meat, poultry, fish, seafood, and their preparations",11,Air (incl truck and air),2017,4,,0,Z,1,,5084,,35.7,,40.6,,40.6,,0.2,
+2,6,0400000US06,California,,0400000US28,Mississippi,29,Printed products,4,For-hire truck,2017,0,S,0,Z,0,Z,2133,,0.0,S,46.9,,46.6,,6.9,
+2,4,0400000US04,Arizona,,0400000US15,Hawaii,36,Motorized and other vehicles (includes parts),1,All modes,2017,0,S,0,S,0,S,3120,,0.0,S,0.0,S,0.0,S,2.7,
+2,37,0400000US37,North Carolina,,0400000US32,Nevada,32,Base metal in primary or semi-finished forms and in finished basic shapes,4,For-hire truck,2017,1,,0,S,0,S,2280,,12.8,,0.0,S,0.0,S,3.1,
+2,32,0400000US32,Nevada,,0400000US49,Utah,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,31,0400000US31,Nebraska,,0400000US15,Hawaii,30,"Textiles, leather, and articles of textiles or leather",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,40,0400000US40,Oklahoma,,0400000US25,Massachusetts,31,Non-metallic mineral products,3,Truck,2017,1,,0,S,0,S,1560,,39.3,,0.0,S,0.0,S,3.3,
+2,47,0400000US47,Tennessee,,0400000US35,New Mexico,32,Base metal in primary or semi-finished forms and in finished basic shapes,4,For-hire truck,2017,3,,1,,2,,1159,,31.1,,24.9,,22.4,,5.5,
+2,12,0400000US12,Florida,,0400000US22,Louisiana,21,Pharmaceutical products,2,Single modes,2017,0,S,0,Z,0,Z,1105,,0.0,S,45.9,,48.7,,11.3,
+2,16,0400000US16,Idaho,,0400000US56,Wyoming,21,Pharmaceutical products,1,All modes,2017,11,,0,Z,0,Z,472,,28.4,,47.1,,41.7,,15.6,
+2,32,0400000US32,Nevada,,0400000US41,Oregon,0,All Commodities,13,Multiple modes,2017,538,,153,,143,,596,,28.9,,48.6,,47.4,,7.3,
+2,6,0400000US06,California,,0400000US24,Maryland,31,Non-metallic mineral products,2,Single modes,2017,0,S,0,S,0,S,2720,,0.0,S,0.0,S,0.0,S,1.2,
+2,20,0400000US20,Kansas,,0400000US29,Missouri,20,Basic chemicals,1,All modes,2017,0,S,0,S,0,S,177,,0.0,S,0.0,S,0.0,S,23.8,
+2,48,0400000US48,Texas,,0400000US04,Arizona,38,Precision instruments and apparatus,13,Multiple modes,2017,85,,0,Z,0,Z,1038,,34.9,,30.7,,32.1,,2.0,
+2,45,0400000US45,South Carolina,,0400000US51,Virginia,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",4,For-hire truck,2017,0,S,0,S,0,S,382,,0.0,S,0.0,S,0.0,S,8.1,
+2,32,0400000US32,Nevada,,0400000US08,Colorado,35,"Electronic and other electrical equipment and components, and office equipment",13,Multiple modes,2017,76,,1,,1,,831,,35.2,,42.0,,37.7,,5.6,
+2,24,0400000US24,Maryland,,0400000US49,Utah,38,Precision instruments and apparatus,1,All modes,2017,0,S,0,S,0,S,2121,,0.0,S,0.0,S,0.0,S,0.5,
+2,40,0400000US40,Oklahoma,,0400000US44,Rhode Island,35,"Electronic and other electrical equipment and components, and office equipment",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,23,0400000US23,Maine,,0400000US34,New Jersey,21,Pharmaceutical products,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,25,0400000US25,Massachusetts,,0400000US28,Mississippi,33,Articles of base metal,4,For-hire truck,2017,33,,27,,35,,1272,,17.3,,17.3,,17.3,,0.0,
+2,56,0400000US56,Wyoming,,0400000US19,Iowa,37,"Transportation equipment, not elsewhere classified",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,12,0400000US12,Florida,,0400000US18,Indiana,23,"Other chemical products and preparations, not elsewhere classified",1,All modes,2017,60,,14,,15,,995,,32.3,,32.8,,33.6,,3.9,
+2,55,0400000US55,Wisconsin,,0400000US24,Maryland,20,Basic chemicals,6,Rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,22,0400000US22,Louisiana,,0400000US08,Colorado,0,All Commodities,11,Air (incl truck and air),2017,0,S,0,S,0,S,1361,,0.0,S,0.0,S,0.0,S,2.3,
+2,49,0400000US49,Utah,,0400000US39,Ohio,40,Miscellaneous manufactured products,4,For-hire truck,2017,27,,2,,3,,1728,,29.9,,45.5,,46.7,,2.1,
+2,19,0400000US19,Iowa,,0400000US37,North Carolina,35,"Electronic and other electrical equipment and components, and office equipment",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,1009,,0.0,S,0.0,S,0.0,S,3.8,
+2,4,0400000US04,Arizona,,0400000US44,Rhode Island,19,"Other coal and petroleum products, not elsewhere classified",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US30,Montana,20,Basic chemicals,3,Truck,2017,0,S,0,S,0,S,1258,,0.0,S,0.0,S,0.0,S,25.5,
+2,23,0400000US23,Maine,,0400000US41,Oregon,34,Machinery,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,53,0400000US53,Washington,,0400000US46,South Dakota,37,"Transportation equipment, not elsewhere classified",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,36,0400000US36,New York,,0400000US46,South Dakota,34,Machinery,2,Single modes,2017,0,S,0,S,0,S,1403,,0.0,S,0.0,S,0.0,S,5.1,
+2,27,0400000US27,Minnesota,,0400000US08,Colorado,27,"Pulp, newsprint, paper, and paperboard",14,"Parcel, U.S.P.S. or courier",2017,2,,0,S,0,S,832,,44.1,,0.0,S,0.0,S,15.0,
+2,39,0400000US39,Ohio,,0400000US28,Mississippi,20,Basic chemicals,13,Multiple modes,2017,0,S,0,S,0,S,741,,0.0,S,0.0,S,0.0,S,10.5,
+2,42,0400000US42,Pennsylvania,,0400000US42,Pennsylvania,26,Wood products,5,Company-owned truck,2017,3220,,4437,,178,,40,,26.0,,43.8,,35.0,,18.1,
+2,48,0400000US48,Texas,,0400000US37,North Carolina,34,Machinery,4,For-hire truck,2017,362,,31,,35,,1116,,27.2,,22.2,,21.6,,2.0,
+2,47,0400000US47,Tennessee,,0400000US08,Colorado,21,Pharmaceutical products,3,Truck,2017,0,S,0,Z,0,Z,1155,,0.0,S,17.0,,26.9,,16.6,
+2,17,0400000US17,Illinois,,0400000US51,Virginia,19,"Other coal and petroleum products, not elsewhere classified",3,Truck,2017,0,S,0,S,0,S,798,,0.0,S,0.0,S,0.0,S,5.3,
+2,17,0400000US17,Illinois,,0400000US06,California,0,All Commodities,15,Truck and rail,2017,1405,,1435,,3378,,2789,,16.5,,34.6,,34.8,,5.7,
+2,38,0400000US38,North Dakota,,0400000US09,Connecticut,41,Waste and scrap,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,4,0400000US04,Arizona,,0400000US24,Maryland,34,Machinery,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,2271,,0.0,S,0.0,S,0.0,S,1.3,
+2,25,0400000US25,Massachusetts,,0400000US44,Rhode Island,24,Plastics and rubber,2,Single modes,2017,139,,45,,3,,46,,21.3,,22.8,,24.1,,9.7,
+2,16,0400000US16,Idaho,,0400000US50,Vermont,26,Wood products,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,39,0400000US39,Ohio,,0400000US36,New York,28,Paper or paperboard articles,5,Company-owned truck,2017,15,,8,,2,,264,,32.3,,16.6,,17.0,,10.9,
+2,12,0400000US12,Florida,,0400000US42,Pennsylvania,31,Non-metallic mineral products,4,For-hire truck,2017,38,,0,S,0,S,1150,,49.6,,0.0,S,0.0,S,2.7,
+2,13,0400000US13,Georgia,,0400000US36,New York,11,Natural sands,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,16,0400000US16,Idaho,,0400000US45,South Carolina,36,Motorized and other vehicles (includes parts),3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,6,0400000US06,California,,0400000US06,California,30,"Textiles, leather, and articles of textiles or leather",1,All modes,2017,41707,,2769,,167,,222,,13.3,,18.0,,8.4,,11.0,
+2,51,0400000US51,Virginia,,0400000US54,West Virginia,4,"Animal feed, eggs, honey, and other products of animal origin",1,All modes,2017,43,,143,,7,,50,,14.4,,14.2,,13.9,,18.4,
+2,45,0400000US45,South Carolina,,0400000US16,Idaho,32,Base metal in primary or semi-finished forms and in finished basic shapes,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,38,0400000US38,North Dakota,,0400000US16,Idaho,2,Cereal grains (includes seed),4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,22,0400000US22,Louisiana,,0400000US06,California,36,Motorized and other vehicles (includes parts),13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,55,0400000US55,Wisconsin,,0400000US17,Illinois,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",3,Truck,2017,0,S,664,,76,,134,,0.0,S,39.4,,34.5,,31.7,
+2,30,0400000US30,Montana,,0400000US28,Mississippi,38,Precision instruments and apparatus,13,Multiple modes,2017,0,S,0,Z,0,Z,2112,,0.0,S,34.0,,34.7,,0.8,
+2,34,0400000US34,New Jersey,,0400000US13,Georgia,29,Printed products,2,Single modes,2017,12,,1,,1,,847,,49.2,,45.8,,47.1,,3.1,
+2,38,0400000US38,North Dakota,,0400000US30,Montana,18,Fuel oils,2,Single modes,2017,29,,60,,16,,258,,24.9,,28.9,,31.0,,11.3,
+2,26,0400000US26,Michigan,,0400000US38,North Dakota,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",13,Multiple modes,2017,0,S,0,S,0,S,1055,,0.0,S,0.0,S,0.0,S,9.4,
+2,19,0400000US19,Iowa,,0400000US10,Delaware,34,Machinery,1,All modes,2017,0,S,1,,1,,1053,,0.0,S,46.5,,46.0,,2.2,
+2,4,0400000US04,Arizona,,0400000US23,Maine,24,Plastics and rubber,1,All modes,2017,2,,0,S,0,S,2560,,4.7,,0.0,S,0.0,S,4.3,
+2,33,0400000US33,New Hampshire,,0400000US38,North Dakota,40,Miscellaneous manufactured products,13,Multiple modes,2017,9,,0,Z,0,Z,1782,,48.8,,31.8,,32.2,,2.9,
+2,36,0400000US36,New York,,0400000US49,Utah,35,"Electronic and other electrical equipment and components, and office equipment",2,Single modes,2017,29,,0,S,0,S,2237,,25.7,,0.0,S,0.0,S,3.0,
+2,54,0400000US54,West Virginia,,0400000US13,Georgia,31,Non-metallic mineral products,1,All modes,2017,12,,0,S,0,S,656,,36.3,,0.0,S,0.0,S,5.1,
+2,19,0400000US19,Iowa,,0400000US29,Missouri,0,All Commodities,2,Single modes,2017,6076,,3730,,984,,251,,11.9,,9.4,,9.9,,6.5,
+2,34,0400000US34,New Jersey,,0400000US12,Florida,0,All Commodities,6,Rail,2017,4,,0,S,0,S,1159,,40.1,,0.0,S,0.0,S,32.4,
+2,39,0400000US39,Ohio,,0400000US18,Indiana,32,Base metal in primary or semi-finished forms and in finished basic shapes,4,For-hire truck,2017,2663,,2373,,552,,196,,11.5,,15.0,,17.5,,9.1,
+2,27,0400000US27,Minnesota,,0400000US38,North Dakota,4,"Animal feed, eggs, honey, and other products of animal origin",4,For-hire truck,2017,51,,0,S,0,S,324,,48.8,,0.0,S,0.0,S,14.8,
+2,26,0400000US26,Michigan,,0400000US27,Minnesota,29,Printed products,4,For-hire truck,2017,5,,1,,1,,672,,29.5,,47.9,,49.7,,7.1,
+2,5,0400000US05,Arkansas,,0400000US51,Virginia,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,10,0400000US10,Delaware,,0400000US45,South Carolina,31,Non-metallic mineral products,4,For-hire truck,2017,1,,0,S,0,S,609,,18.4,,0.0,S,0.0,S,7.7,
+2,51,0400000US51,Virginia,,0400000US47,Tennessee,40,Miscellaneous manufactured products,5,Company-owned truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,12,0400000US12,Florida,,0400000US29,Missouri,6,"Milled grain products and preparations, and bakery products",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,42,0400000US42,Pennsylvania,,0400000US48,Texas,37,"Transportation equipment, not elsewhere classified",3,Truck,2017,117,,27,,41,,1444,,31.9,,45.4,,47.6,,3.7,
+2,13,0400000US13,Georgia,,0400000US28,Mississippi,24,Plastics and rubber,14,"Parcel, U.S.P.S. or courier",2017,32,,2,,1,,397,,30.1,,34.3,,34.9,,5.7,
+2,8,0400000US08,Colorado,,0400000US30,Montana,8,Alcoholic beverages,3,Truck,2017,48,,40,,26,,670,,37.4,,39.2,,38.5,,7.2,
+2,25,0400000US25,Massachusetts,,0400000US08,Colorado,20,Basic chemicals,3,Truck,2017,0,Z,0,S,0,S,1937,,49.7,,0.0,S,0.0,S,3.1,
+2,4,0400000US04,Arizona,,0400000US05,Arkansas,7,Other prepared foodstuffs and fats and oils,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,47,0400000US47,Tennessee,,0400000US47,Tennessee,33,Articles of base metal,2,Single modes,2017,1910,,552,,36,,27,,21.2,,19.1,,22.8,,11.9,
+2,13,0400000US13,Georgia,,0400000US37,North Carolina,33,Articles of base metal,1,All modes,2017,384,,79,,27,,361,,12.9,,18.3,,19.4,,6.2,
+2,26,0400000US26,Michigan,,0400000US06,California,29,Printed products,1,All modes,2017,132,,21,,48,,2247,,24.6,,26.9,,26.9,,0.8,
+2,12,0400000US12,Florida,,0400000US19,Iowa,20,Basic chemicals,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,17,0400000US17,Illinois,,0400000US29,Missouri,6,"Milled grain products and preparations, and bakery products",2,Single modes,2017,234,,171,,56,,0,S,34.9,,44.7,,46.4,,0.0,S
+2,18,0400000US18,Indiana,,0400000US41,Oregon,30,"Textiles, leather, and articles of textiles or leather",1,All modes,2017,57,,0,S,6,,2284,,31.7,,0.0,S,49.9,,0.7,
+2,39,0400000US39,Ohio,,0400000US32,Nevada,19,"Other coal and petroleum products, not elsewhere classified",2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,32,0400000US32,Nevada,,0400000US18,Indiana,32,Base metal in primary or semi-finished forms and in finished basic shapes,4,For-hire truck,2017,0,S,0,Z,0,Z,2007,,0.0,S,29.6,,29.5,,1.1,
+2,51,0400000US51,Virginia,,0400000US11,District of Columbia,28,Paper or paperboard articles,13,Multiple modes,2017,0,S,0,Z,0,Z,0,S,0.0,S,13.4,,48.5,,0.0,S
+2,26,0400000US26,Michigan,,0400000US29,Missouri,37,"Transportation equipment, not elsewhere classified",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,17,0400000US17,Illinois,,0400000US19,Iowa,36,Motorized and other vehicles (includes parts),11,Air (incl truck and air),2017,2,,0,Z,0,Z,855,,20.9,,1.3,,8.9,,20.2,
+2,4,0400000US04,Arizona,,0400000US05,Arkansas,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,S,1375,,0.0,S,44.4,,0.0,S,11.0,
+2,17,0400000US17,Illinois,,0400000US48,Texas,35,"Electronic and other electrical equipment and components, and office equipment",16,Truck and water,2017,70,,0,S,0,S,1163,,48.5,,0.0,S,0.0,S,13.4,
+2,46,0400000US46,South Dakota,,0400000US12,Florida,35,"Electronic and other electrical equipment and components, and office equipment",11,Air (incl truck and air),2017,0,S,0,S,0,S,1703,,0.0,S,0.0,S,0.0,S,4.1,
+2,47,0400000US47,Tennessee,,0400000US30,Montana,4,"Animal feed, eggs, honey, and other products of animal origin",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,48,0400000US48,Texas,,0400000US05,Arkansas,34,Machinery,14,"Parcel, U.S.P.S. or courier",2017,125,,3,,1,,391,,36.7,,40.3,,40.3,,6.9,
+2,46,0400000US46,South Dakota,,0400000US27,Minnesota,31,Non-metallic mineral products,15,Truck and rail,2017,3,,114,,74,,655,,39.1,,42.3,,43.3,,1.4,
+2,38,0400000US38,North Dakota,,0400000US08,Colorado,5,"Meat, poultry, fish, seafood, and their preparations",2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,6,0400000US06,California,,0400000US38,North Dakota,8,Alcoholic beverages,4,For-hire truck,2017,0,S,0,S,0,S,1756,,0.0,S,0.0,S,0.0,S,1.5,
+2,55,0400000US55,Wisconsin,,0400000US24,Maryland,30,"Textiles, leather, and articles of textiles or leather",3,Truck,2017,5,,0,S,0,S,825,,45.4,,0.0,S,0.0,S,7.4,
+2,31,0400000US31,Nebraska,,0400000US27,Minnesota,29,Printed products,4,For-hire truck,2017,5,,1,,0,Z,412,,32.8,,33.7,,34.5,,3.7,
+2,17,0400000US17,Illinois,,0400000US13,Georgia,22,Fertilizers,4,For-hire truck,2017,0,S,0,S,0,S,718,,0.0,S,0.0,S,0.0,S,3.6,
+2,54,0400000US54,West Virginia,,0400000US41,Oregon,24,Plastics and rubber,1,All modes,2017,0,S,0,S,0,S,2612,,0.0,S,0.0,S,0.0,S,2.1,
+2,5,0400000US05,Arkansas,,0400000US17,Illinois,35,"Electronic and other electrical equipment and components, and office equipment",3,Truck,2017,0,S,7,,4,,641,,0.0,S,39.4,,39.1,,8.2,
+2,1,0400000US01,Alabama,,0400000US20,Kansas,19,"Other coal and petroleum products, not elsewhere classified",4,For-hire truck,2017,2,,5,,4,,728,,42.5,,19.8,,16.3,,4.7,
+2,40,0400000US40,Oklahoma,,0400000US40,Oklahoma,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",3,Truck,2017,534,,1077,,0,S,34,,31.0,,49.5,,0.0,S,46.7,
+2,22,0400000US22,Louisiana,,0400000US48,Texas,24,Plastics and rubber,5,Company-owned truck,2017,81,,27,,0,S,205,,22.8,,39.8,,0.0,S,14.6,
+2,24,0400000US24,Maryland,,0400000US19,Iowa,28,Paper or paperboard articles,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,21,0400000US21,Kentucky,,0400000US36,New York,4,"Animal feed, eggs, honey, and other products of animal origin",15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,54,0400000US54,West Virginia,,0400000US36,New York,40,Miscellaneous manufactured products,3,Truck,2017,1,,0,Z,0,Z,618,,35.3,,23.2,,23.3,,26.5,
+2,48,0400000US48,Texas,,0400000US18,Indiana,26,Wood products,1,All modes,2017,63,,52,,51,,907,,25.3,,26.2,,25.9,,4.1,
+2,48,0400000US48,Texas,,0400000US22,Louisiana,18,Fuel oils,7,Water,2017,0,S,0,S,0,S,563,,0.0,S,0.0,S,0.0,S,24.1,
+2,5,0400000US05,Arkansas,,0400000US40,Oklahoma,18,Fuel oils,1,All modes,2017,0,S,16,,5,,338,,0.0,S,8.0,,7.9,,0.2,
+2,47,0400000US47,Tennessee,,0400000US29,Missouri,33,Articles of base metal,1,All modes,2017,106,,26,,12,,498,,29.3,,26.3,,31.8,,8.5,
+2,51,0400000US51,Virginia,,0400000US27,Minnesota,40,Miscellaneous manufactured products,13,Multiple modes,2017,21,,0,S,0,S,1266,,40.6,,0.0,S,0.0,S,1.6,
+2,34,0400000US34,New Jersey,,0400000US38,North Dakota,24,Plastics and rubber,4,For-hire truck,2017,23,,0,S,0,S,1571,,41.7,,0.0,S,0.0,S,2.6,
+2,4,0400000US04,Arizona,,0400000US26,Michigan,28,Paper or paperboard articles,13,Multiple modes,2017,0,S,0,S,0,S,1971,,0.0,S,0.0,S,0.0,S,0.5,
+2,13,0400000US13,Georgia,,0400000US55,Wisconsin,7,Other prepared foodstuffs and fats and oils,4,For-hire truck,2017,38,,21,,18,,880,,40.7,,24.5,,23.6,,3.7,
+2,30,0400000US30,Montana,,0400000US30,Montana,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",1,All modes,2017,155,,50,,9,,210,,37.7,,39.2,,44.4,,13.0,
+2,16,0400000US16,Idaho,,0400000US16,Idaho,13,"Other non-metallic minerals, not elsewhere classified",1,All modes,2017,417,,0,S,0,S,0,S,46.1,,0.0,S,0.0,S,0.0,S
+2,25,0400000US25,Massachusetts,,0400000US37,North Carolina,29,Printed products,4,For-hire truck,2017,19,,0,S,0,S,744,,44.1,,0.0,S,0.0,S,3.4,
+2,47,0400000US47,Tennessee,,0400000US16,Idaho,36,Motorized and other vehicles (includes parts),3,Truck,2017,0,S,0,S,0,S,2010,,0.0,S,0.0,S,0.0,S,3.0,
+2,28,0400000US28,Mississippi,,0400000US08,Colorado,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",13,Multiple modes,2017,0,S,0,S,0,S,1179,,0.0,S,0.0,S,0.0,S,1.9,
+2,34,0400000US34,New Jersey,,0400000US06,California,9,Tobacco products,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,23,0400000US23,Maine,,0400000US50,Vermont,6,"Milled grain products and preparations, and bakery products",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,23,0400000US23,Maine,,0400000US47,Tennessee,27,"Pulp, newsprint, paper, and paperboard",3,Truck,2017,3,,4,,6,,1481,,19.0,,21.5,,21.8,,0.3,
+2,33,0400000US33,New Hampshire,,0400000US36,New York,35,"Electronic and other electrical equipment and components, and office equipment",5,Company-owned truck,2017,0,S,0,S,0,S,489,,0.0,S,0.0,S,0.0,S,2.4,
+2,26,0400000US26,Michigan,,0400000US24,Maryland,33,Articles of base metal,3,Truck,2017,33,,12,,7,,561,,33.6,,49.4,,49.4,,3.9,
+2,24,0400000US24,Maryland,,0400000US13,Georgia,35,"Electronic and other electrical equipment and components, and office equipment",1,All modes,2017,0,S,0,S,0,S,669,,0.0,S,0.0,S,0.0,S,1.2,
+2,17,0400000US17,Illinois,,0400000US49,Utah,24,Plastics and rubber,1,All modes,2017,167,,48,,84,,1370,,23.7,,41.7,,44.9,,1.3,
+2,42,0400000US42,Pennsylvania,,0400000US16,Idaho,43,Mixed freight,1,All modes,2017,19,,0,S,0,S,2315,,48.4,,0.0,S,0.0,S,2.2,
+2,34,0400000US34,New Jersey,,0400000US29,Missouri,38,Precision instruments and apparatus,14,"Parcel, U.S.P.S. or courier",2017,64,,0,S,0,S,993,,42.9,,0.0,S,0.0,S,3.0,
+2,25,0400000US25,Massachusetts,,0400000US17,Illinois,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,25,0400000US25,Massachusetts,,0400000US28,Mississippi,34,Machinery,1,All modes,2017,0,S,0,S,0,S,1384,,0.0,S,0.0,S,0.0,S,1.5,
+2,12,0400000US12,Florida,,0400000US25,Massachusetts,21,Pharmaceutical products,14,"Parcel, U.S.P.S. or courier",2017,205,,0,Z,0,Z,1432,,41.1,,27.9,,28.4,,2.1,
+2,13,0400000US13,Georgia,,0400000US01,Alabama,29,Printed products,2,Single modes,2017,18,,2,,0,Z,218,,20.3,,27.7,,29.7,,7.0,
+2,53,0400000US53,Washington,,0400000US13,Georgia,27,"Pulp, newsprint, paper, and paperboard",1,All modes,2017,0,S,0,S,0,S,2719,,0.0,S,0.0,S,0.0,S,2.8,
+2,20,0400000US20,Kansas,,0400000US15,Hawaii,21,Pharmaceutical products,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,32,0400000US32,Nevada,,0400000US31,Nebraska,34,Machinery,13,Multiple modes,2017,0,S,0,S,0,S,1423,,0.0,S,0.0,S,0.0,S,7.8,
+2,4,0400000US04,Arizona,,0400000US02,Alaska,23,"Other chemical products and preparations, not elsewhere classified",13,Multiple modes,2017,0,S,0,Z,0,Z,3320,,0.0,S,20.9,,20.9,,0.0,Z
+2,19,0400000US19,Iowa,,0400000US17,Illinois,26,Wood products,2,Single modes,2017,175,,0,S,18,,312,,36.5,,0.0,S,40.1,,8.6,
+2,39,0400000US39,Ohio,,0400000US33,New Hampshire,27,"Pulp, newsprint, paper, and paperboard",2,Single modes,2017,0,Z,0,Z,0,Z,801,,37.7,,48.3,,42.2,,11.3,
+2,47,0400000US47,Tennessee,,0400000US48,Texas,1,Animals and fish (live),2,Single modes,2017,49,,18,,16,,912,,30.3,,22.9,,23.1,,0.6,
+2,56,0400000US56,Wyoming,,0400000US49,Utah,33,Articles of base metal,2,Single modes,2017,24,,0,S,0,S,417,,44.3,,0.0,S,0.0,S,4.7,
+2,13,0400000US13,Georgia,,0400000US29,Missouri,30,"Textiles, leather, and articles of textiles or leather",3,Truck,2017,198,,37,,24,,624,,25.7,,18.8,,17.8,,2.6,
+2,56,0400000US56,Wyoming,,0400000US12,Florida,43,Mixed freight,14,"Parcel, U.S.P.S. or courier",2017,1,,0,S,0,S,2202,,18.7,,0.0,S,0.0,S,5.9,
+2,40,0400000US40,Oklahoma,,0400000US48,Texas,25,Logs and other wood in the rough,4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,50,0400000US50,Vermont,,0400000US25,Massachusetts,12,Gravel and crushed stone (excludes dolomite and slate),4,For-hire truck,2017,1,,39,,8,,209,,29.1,,28.7,,33.0,,5.3,
+2,1,0400000US01,Alabama,,0400000US01,Alabama,23,"Other chemical products and preparations, not elsewhere classified",6,Rail,2017,0,S,0,S,1,,0,S,0.0,S,0.0,S,39.7,,0.0,S
+2,28,0400000US28,Mississippi,,0400000US04,Arizona,32,Base metal in primary or semi-finished forms and in finished basic shapes,1,All modes,2017,0,S,0,S,0,S,1457,,0.0,S,0.0,S,0.0,S,4.0,
+2,10,0400000US10,Delaware,,0400000US21,Kentucky,5,"Meat, poultry, fish, seafood, and their preparations",1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,38,0400000US38,North Dakota,,0400000US42,Pennsylvania,29,Printed products,4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,22,0400000US22,Louisiana,,0400000US17,Illinois,7,Other prepared foodstuffs and fats and oils,13,Multiple modes,2017,119,,189,,193,,1019,,33.7,,33.4,,33.3,,0.2,
+2,19,0400000US19,Iowa,,0400000US39,Ohio,12,Gravel and crushed stone (excludes dolomite and slate),3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,47,0400000US47,Tennessee,,0400000US26,Michigan,0,All Commodities,15,Truck and rail,2017,501,,146,,151,,826,,37.0,,34.0,,37.9,,4.3,
+2,24,0400000US24,Maryland,,0400000US26,Michigan,34,Machinery,1,All modes,2017,50,,0,S,0,S,536,,39.1,,0.0,S,0.0,S,3.4,
+2,27,0400000US27,Minnesota,,0400000US19,Iowa,6,"Milled grain products and preparations, and bakery products",13,Multiple modes,2017,13,,22,,9,,413,,6.0,,5.5,,5.5,,0.0,Z
+2,4,0400000US04,Arizona,,0400000US08,Colorado,27,"Pulp, newsprint, paper, and paperboard",13,Multiple modes,2017,0,S,0,S,0,S,881,,0.0,S,0.0,S,0.0,S,6.9,
+2,26,0400000US26,Michigan,,0400000US55,Wisconsin,35,"Electronic and other electrical equipment and components, and office equipment",3,Truck,2017,144,,7,,2,,374,,33.1,,46.3,,38.5,,10.0,
+2,21,0400000US21,Kentucky,,0400000US19,Iowa,31,Non-metallic mineral products,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US12,Florida,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",2,Single modes,2017,0,S,0,S,0,S,1719,,0.0,S,0.0,S,0.0,S,2.8,
+2,1,0400000US01,Alabama,,0400000US29,Missouri,34,Machinery,13,Multiple modes,2017,0,S,0,S,0,S,575,,0.0,S,0.0,S,0.0,S,8.7,
+2,44,0400000US44,Rhode Island,,0400000US33,New Hampshire,11,Natural sands,3,Truck,2017,1,,13,,1,,103,,41.1,,40.3,,39.8,,1.3,
+2,55,0400000US55,Wisconsin,,0400000US51,Virginia,26,Wood products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,990,,0.0,S,0.0,S,0.0,S,4.1,
+2,47,0400000US47,Tennessee,,0400000US50,Vermont,24,Plastics and rubber,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,10,0400000US10,Delaware,,0400000US36,New York,30,"Textiles, leather, and articles of textiles or leather",11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,45,0400000US45,South Carolina,,0400000US35,New Mexico,36,Motorized and other vehicles (includes parts),13,Multiple modes,2017,0,S,0,S,0,S,1596,,0.0,S,0.0,S,0.0,S,2.2,
+2,19,0400000US19,Iowa,,0400000US55,Wisconsin,6,"Milled grain products and preparations, and bakery products",1,All modes,2017,126,,274,,0,S,253,,39.3,,44.5,,0.0,S,5.4,
+2,13,0400000US13,Georgia,,0400000US15,Hawaii,30,"Textiles, leather, and articles of textiles or leather",2,Single modes,2017,0,S,0,S,0,S,4566,,0.0,S,0.0,S,0.0,S,2.3,
+2,5,0400000US05,Arkansas,,0400000US38,North Dakota,33,Articles of base metal,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,17,0400000US17,Illinois,,0400000US44,Rhode Island,20,Basic chemicals,1,All modes,2017,17,,5,,5,,1053,,47.2,,42.3,,42.6,,4.7,
+2,30,0400000US30,Montana,,0400000US55,Wisconsin,20,Basic chemicals,3,Truck,2017,0,S,0,S,0,S,1235,,0.0,S,0.0,S,0.0,S,21.8,
+2,26,0400000US26,Michigan,,0400000US36,New York,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",17,Rail and water,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,13,0400000US13,Georgia,,0400000US47,Tennessee,38,Precision instruments and apparatus,1,All modes,2017,221,,2,,1,,293,,31.3,,40.9,,36.3,,9.8,
+2,21,0400000US21,Kentucky,,0400000US01,Alabama,30,"Textiles, leather, and articles of textiles or leather",14,"Parcel, U.S.P.S. or courier",2017,88,,0,S,0,S,480,,39.2,,0.0,S,0.0,S,8.7,
+2,42,0400000US42,Pennsylvania,,0400000US18,Indiana,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",2,Single modes,2017,46,,0,S,0,S,566,,38.5,,0.0,S,0.0,S,8.2,
+2,25,0400000US25,Massachusetts,,0400000US31,Nebraska,28,Paper or paperboard articles,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,23,0400000US23,Maine,,0400000US10,Delaware,26,Wood products,3,Truck,2017,0,S,0,S,0,S,430,,0.0,S,0.0,S,0.0,S,22.2,
+2,13,0400000US13,Georgia,,0400000US27,Minnesota,34,Machinery,2,Single modes,2017,139,,13,,17,,1237,,38.5,,41.2,,42.3,,2.0,
+2,13,0400000US13,Georgia,,0400000US18,Indiana,30,"Textiles, leather, and articles of textiles or leather",1,All modes,2017,202,,38,,24,,599,,24.0,,30.0,,33.6,,2.7,
+2,55,0400000US55,Wisconsin,,0400000US35,New Mexico,24,Plastics and rubber,2,Single modes,2017,0,S,0,S,0,S,1415,,0.0,S,0.0,S,0.0,S,0.3,
+2,39,0400000US39,Ohio,,0400000US12,Florida,28,Paper or paperboard articles,2,Single modes,2017,0,S,0,S,0,S,997,,0.0,S,0.0,S,0.0,S,2.1,
+2,16,0400000US16,Idaho,,0400000US41,Oregon,7,Other prepared foodstuffs and fats and oils,14,"Parcel, U.S.P.S. or courier",2017,2,,0,Z,0,Z,427,,34.3,,43.6,,44.3,,1.7,
+2,29,0400000US29,Missouri,,0400000US05,Arkansas,31,Non-metallic mineral products,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,18,0400000US18,Indiana,,0400000US01,Alabama,26,Wood products,4,For-hire truck,2017,18,,20,,9,,581,,20.9,,26.8,,25.8,,11.0,
+2,21,0400000US21,Kentucky,,0400000US42,Pennsylvania,34,Machinery,13,Multiple modes,2017,41,,1,,0,Z,655,,49.2,,28.0,,30.4,,7.3,
+2,38,0400000US38,North Dakota,,0400000US06,California,34,Machinery,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,51,0400000US51,Virginia,,0400000US42,Pennsylvania,27,"Pulp, newsprint, paper, and paperboard",5,Company-owned truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,26,0400000US26,Michigan,,0400000US15,Hawaii,24,Plastics and rubber,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,4,0400000US04,Arizona,,0400000US56,Wyoming,0,All Commodities,2,Single modes,2017,66,,10,,10,,1045,,32.9,,37.2,,36.7,,8.5,
+2,47,0400000US47,Tennessee,,0400000US45,South Carolina,21,Pharmaceutical products,18,Other multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,38,0400000US38,North Dakota,,0400000US54,West Virginia,23,"Other chemical products and preparations, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,12,0400000US12,Florida,,0400000US12,Florida,0,All Commodities,18,Other multiple modes,2017,80,,128,,0,S,0,S,43.3,,41.2,,0.0,S,0.0,S
+2,17,0400000US17,Illinois,,0400000US39,Ohio,29,Printed products,11,Air (incl truck and air),2017,0,S,0,S,0,S,376,,0.0,S,0.0,S,0.0,S,3.2,
+2,19,0400000US19,Iowa,,0400000US22,Louisiana,36,Motorized and other vehicles (includes parts),1,All modes,2017,49,,3,,3,,995,,47.2,,40.9,,39.9,,3.1,
+2,48,0400000US48,Texas,,0400000US26,Michigan,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",1,All modes,2017,0,S,29,,36,,1215,,0.0,S,20.7,,20.7,,2.4,
+2,41,0400000US41,Oregon,,0400000US18,Indiana,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",2,Single modes,2017,0,S,0,S,0,S,2348,,0.0,S,0.0,S,0.0,S,0.4,
+2,47,0400000US47,Tennessee,,0400000US23,Maine,19,"Other coal and petroleum products, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,1343,,0.0,S,0.0,S,0.0,S,3.3,
+2,1,0400000US01,Alabama,,0400000US42,Pennsylvania,35,"Electronic and other electrical equipment and components, and office equipment",3,Truck,2017,28,,0,S,0,S,804,,36.1,,0.0,S,0.0,S,3.3,
+2,10,0400000US10,Delaware,,0400000US12,Florida,0,All Commodities,13,Multiple modes,2017,0,S,7,,8,,1042,,0.0,S,42.7,,43.1,,3.2,
+2,50,0400000US50,Vermont,,0400000US19,Iowa,33,Articles of base metal,3,Truck,2017,0,S,0,S,0,S,1327,,0.0,S,0.0,S,0.0,S,5.2,
+2,23,0400000US23,Maine,,0400000US25,Massachusetts,7,Other prepared foodstuffs and fats and oils,3,Truck,2017,174,,0,S,125,,125,,29.7,,0.0,S,45.5,,9.4,
+2,36,0400000US36,New York,,0400000US49,Utah,6,"Milled grain products and preparations, and bakery products",2,Single modes,2017,11,,4,,8,,2185,,9.9,,28.6,,26.5,,3.2,
+2,33,0400000US33,New Hampshire,,0400000US41,Oregon,0,All Commodities,14,"Parcel, U.S.P.S. or courier",2017,124,,1,,4,,3117,,27.2,,19.0,,18.6,,0.4,
+2,50,0400000US50,Vermont,,0400000US31,Nebraska,24,Plastics and rubber,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,24,0400000US24,Maryland,,0400000US25,Massachusetts,40,Miscellaneous manufactured products,4,For-hire truck,2017,75,,0,S,0,S,483,,36.9,,0.0,S,0.0,S,8.1,
+2,31,0400000US31,Nebraska,,0400000US45,South Carolina,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,0,Z,0,S,0,S,1366,,28.9,,0.0,S,0.0,S,5.4,
+2,36,0400000US36,New York,,0400000US01,Alabama,7,Other prepared foodstuffs and fats and oils,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,5,0400000US05,Arkansas,,0400000US42,Pennsylvania,30,"Textiles, leather, and articles of textiles or leather",3,Truck,2017,0,S,0,Z,0,Z,984,,0.0,S,41.6,,43.4,,7.9,
+2,45,0400000US45,South Carolina,,0400000US10,Delaware,26,Wood products,4,For-hire truck,2017,3,,11,,5,,486,,37.6,,23.4,,23.1,,0.7,
+2,56,0400000US56,Wyoming,,0400000US26,Michigan,38,Precision instruments and apparatus,14,"Parcel, U.S.P.S. or courier",2017,0,Z,0,S,0,S,1328,,48.9,,0.0,S,0.0,S,11.3,
+2,16,0400000US16,Idaho,,0400000US42,Pennsylvania,40,Miscellaneous manufactured products,3,Truck,2017,1,,0,Z,0,Z,2439,,42.9,,40.1,,40.3,,2.4,
+2,48,0400000US48,Texas,,0400000US42,Pennsylvania,7,Other prepared foodstuffs and fats and oils,13,Multiple modes,2017,0,S,0,S,0,S,1111,,0.0,S,0.0,S,0.0,S,9.3,
+2,51,0400000US51,Virginia,,0400000US24,Maryland,20,Basic chemicals,13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,5,0400000US05,Arkansas,,0400000US47,Tennessee,24,Plastics and rubber,5,Company-owned truck,2017,0,S,0,S,0,S,178,,0.0,S,0.0,S,0.0,S,21.5,
+2,50,0400000US50,Vermont,,0400000US34,New Jersey,7,Other prepared foodstuffs and fats and oils,5,Company-owned truck,2017,72,,15,,5,,355,,30.2,,26.2,,25.1,,8.1,
+2,48,0400000US48,Texas,,0400000US08,Colorado,29,Printed products,13,Multiple modes,2017,19,,1,,1,,738,,39.9,,43.2,,41.7,,5.0,
+2,56,0400000US56,Wyoming,,0400000US27,Minnesota,22,Fertilizers,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,12,0400000US12,Florida,,0400000US33,New Hampshire,26,Wood products,1,All modes,2017,0,S,0,S,0,S,1518,,0.0,S,0.0,S,0.0,S,15.7,
+2,41,0400000US41,Oregon,,0400000US53,Washington,23,"Other chemical products and preparations, not elsewhere classified",3,Truck,2017,500,,306,,63,,87,,18.7,,23.3,,30.5,,47.3,
+2,47,0400000US47,Tennessee,,0400000US44,Rhode Island,24,Plastics and rubber,3,Truck,2017,0,S,0,S,0,S,956,,0.0,S,0.0,S,0.0,S,9.7,
+2,34,0400000US34,New Jersey,,0400000US23,Maine,19,"Other coal and petroleum products, not elsewhere classified",3,Truck,2017,0,S,0,S,0,S,401,,0.0,S,0.0,S,0.0,S,3.7,
+2,27,0400000US27,Minnesota,,0400000US38,North Dakota,20,Basic chemicals,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,423,,0.0,S,0.0,S,0.0,S,10.5,
+2,40,0400000US40,Oklahoma,,0400000US21,Kentucky,38,Precision instruments and apparatus,13,Multiple modes,2017,2,,0,S,0,S,749,,41.3,,0.0,S,0.0,S,4.8,
+2,54,0400000US54,West Virginia,,0400000US24,Maryland,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",4,For-hire truck,2017,30,,6,,0,Z,65,,38.2,,33.7,,32.7,,6.7,
+2,42,0400000US42,Pennsylvania,,0400000US24,Maryland,28,Paper or paperboard articles,13,Multiple modes,2017,0,S,0,S,0,S,134,,0.0,S,0.0,S,0.0,S,17.6,
+2,33,0400000US33,New Hampshire,,0400000US04,Arizona,30,"Textiles, leather, and articles of textiles or leather",2,Single modes,2017,0,S,0,S,0,S,2643,,0.0,S,0.0,S,0.0,S,1.4,
+2,53,0400000US53,Washington,,0400000US36,New York,2,Cereal grains (includes seed),1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,26,0400000US26,Michigan,,0400000US48,Texas,4,"Animal feed, eggs, honey, and other products of animal origin",1,All modes,2017,0,S,0,S,0,S,1330,,0.0,S,0.0,S,0.0,S,4.4,
+2,53,0400000US53,Washington,,0400000US15,Hawaii,7,Other prepared foodstuffs and fats and oils,13,Multiple modes,2017,0,S,0,S,0,S,3221,,0.0,S,0.0,S,0.0,S,2.9,
+2,55,0400000US55,Wisconsin,,0400000US45,South Carolina,14,Metallic ores and concentrates,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,40,0400000US40,Oklahoma,,0400000US41,Oregon,28,Paper or paperboard articles,1,All modes,2017,36,,25,,49,,1992,,32.4,,39.8,,39.8,,0.5,
+2,47,0400000US47,Tennessee,,0400000US39,Ohio,29,Printed products,5,Company-owned truck,2017,1,,0,S,0,S,429,,48.4,,0.0,S,0.0,S,0.0,
+2,26,0400000US26,Michigan,,0400000US39,Ohio,36,Motorized and other vehicles (includes parts),11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,49,0400000US49,Utah,,0400000US08,Colorado,33,Articles of base metal,1,All modes,2017,99,,27,,12,,499,,30.0,,47.1,,49.6,,3.6,
+2,50,0400000US50,Vermont,,0400000US06,California,31,Non-metallic mineral products,13,Multiple modes,2017,6,,0,S,0,Z,2972,,25.0,,0.0,S,49.9,,0.4,
+2,9,0400000US09,Connecticut,,0400000US50,Vermont,0,All Commodities,2,Single modes,2017,702,,268,,49,,175,,17.7,,25.2,,25.0,,6.4,
+2,50,0400000US50,Vermont,,0400000US37,North Carolina,35,"Electronic and other electrical equipment and components, and office equipment",13,Multiple modes,2017,0,S,0,S,0,S,774,,0.0,S,0.0,S,0.0,S,4.2,
+2,5,0400000US05,Arkansas,,0400000US16,Idaho,0,All Commodities,2,Single modes,2017,52,,20,,37,,1733,,43.2,,35.8,,38.3,,2.2,
+2,48,0400000US48,Texas,,0400000US35,New Mexico,24,Plastics and rubber,2,Single modes,2017,0,S,0,S,0,S,121,,0.0,S,0.0,S,0.0,S,37.1,
+2,34,0400000US34,New Jersey,,0400000US28,Mississippi,30,"Textiles, leather, and articles of textiles or leather",13,Multiple modes,2017,14,,0,Z,1,,1119,,41.1,,47.5,,49.3,,1.4,
+2,18,0400000US18,Indiana,,0400000US32,Nevada,24,Plastics and rubber,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,1848,,0.0,S,0.0,S,0.0,S,1.3,
+2,17,0400000US17,Illinois,,0400000US05,Arkansas,43,Mixed freight,3,Truck,2017,351,,113,,54,,439,,27.3,,24.8,,24.8,,7.6,
+2,12,0400000US12,Florida,,0400000US46,South Dakota,21,Pharmaceutical products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,1742,,0.0,S,0.0,S,0.0,S,6.8,
+2,22,0400000US22,Louisiana,,0400000US33,New Hampshire,30,"Textiles, leather, and articles of textiles or leather",13,Multiple modes,2017,0,Z,0,Z,0,Z,1559,,41.2,,47.2,,47.1,,0.1,
+2,39,0400000US39,Ohio,,0400000US55,Wisconsin,14,Metallic ores and concentrates,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,28,0400000US28,Mississippi,,0400000US55,Wisconsin,27,"Pulp, newsprint, paper, and paperboard",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,35,0400000US35,New Mexico,,0400000US54,West Virginia,40,Miscellaneous manufactured products,1,All modes,2017,0,S,0,S,0,S,1798,,0.0,S,0.0,S,0.0,S,2.5,
+2,37,0400000US37,North Carolina,,0400000US21,Kentucky,24,Plastics and rubber,4,For-hire truck,2017,316,,116,,55,,454,,27.2,,29.2,,31.4,,5.0,
+2,24,0400000US24,Maryland,,0400000US51,Virginia,25,Logs and other wood in the rough,4,For-hire truck,2017,2,,1,,0,Z,57,,37.9,,35.0,,37.8,,5.9,
+2,18,0400000US18,Indiana,,0400000US04,Arizona,31,Non-metallic mineral products,2,Single modes,2017,4,,2,,3,,1797,,30.8,,32.3,,32.3,,2.1,
+2,34,0400000US34,New Jersey,,0400000US01,Alabama,40,Miscellaneous manufactured products,1,All modes,2017,0,S,8,,7,,1000,,0.0,S,40.7,,40.2,,1.6,
+2,29,0400000US29,Missouri,,0400000US16,Idaho,33,Articles of base metal,4,For-hire truck,2017,0,S,0,S,0,S,1597,,0.0,S,0.0,S,0.0,S,3.2,
+2,48,0400000US48,Texas,,0400000US40,Oklahoma,32,Base metal in primary or semi-finished forms and in finished basic shapes,1,All modes,2017,1489,,901,,273,,254,,20.1,,15.6,,17.1,,10.6,
+2,1,0400000US01,Alabama,,0400000US49,Utah,7,Other prepared foodstuffs and fats and oils,2,Single modes,2017,0,S,0,S,0,S,1888,,0.0,S,0.0,S,0.0,S,1.8,
+2,1,0400000US01,Alabama,,0400000US25,Massachusetts,36,Motorized and other vehicles (includes parts),13,Multiple modes,2017,0,S,0,S,0,S,1176,,0.0,S,0.0,S,0.0,S,2.9,
+2,4,0400000US04,Arizona,,0400000US30,Montana,23,"Other chemical products and preparations, not elsewhere classified",3,Truck,2017,2,,0,Z,0,Z,1260,,45.5,,42.6,,42.8,,0.7,
+2,24,0400000US24,Maryland,,0400000US27,Minnesota,32,Base metal in primary or semi-finished forms and in finished basic shapes,4,For-hire truck,2017,35,,12,,14,,1197,,35.2,,42.6,,42.9,,3.8,
+2,54,0400000US54,West Virginia,,0400000US38,North Dakota,0,All Commodities,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,1224,,0.0,S,0.0,S,0.0,S,4.8,
+2,28,0400000US28,Mississippi,,0400000US01,Alabama,5,"Meat, poultry, fish, seafood, and their preparations",3,Truck,2017,432,,243,,70,,282,,22.5,,34.3,,34.9,,4.1,
+2,30,0400000US30,Montana,,0400000US40,Oklahoma,23,"Other chemical products and preparations, not elsewhere classified",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,23,0400000US23,Maine,,0400000US50,Vermont,0,All Commodities,3,Truck,2017,538,,262,,48,,183,,17.1,,13.4,,7.5,,3.3,
+2,4,0400000US04,Arizona,,0400000US20,Kansas,7,Other prepared foodstuffs and fats and oils,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,1218,,0.0,S,0.0,S,0.0,S,1.1,
+2,8,0400000US08,Colorado,,0400000US53,Washington,29,Printed products,1,All modes,2017,31,,5,,6,,1241,,47.8,,28.4,,29.1,,13.7,
+2,25,0400000US25,Massachusetts,,0400000US05,Arkansas,29,Printed products,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,9,0400000US09,Connecticut,,0400000US04,Arizona,31,Non-metallic mineral products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,2572,,0.0,S,0.0,S,0.0,S,1.4,
+2,32,0400000US32,Nevada,,0400000US53,Washington,36,Motorized and other vehicles (includes parts),14,"Parcel, U.S.P.S. or courier",2017,21,,1,,1,,801,,43.2,,41.2,,42.2,,6.8,
+2,45,0400000US45,South Carolina,,0400000US05,Arkansas,23,"Other chemical products and preparations, not elsewhere classified",14,"Parcel, U.S.P.S. or courier",2017,4,,0,Z,0,Z,871,,45.0,,31.9,,32.5,,3.9,
+2,41,0400000US41,Oregon,,0400000US36,New York,2,Cereal grains (includes seed),2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,41,0400000US41,Oregon,,0400000US24,Maryland,23,"Other chemical products and preparations, not elsewhere classified",2,Single modes,2017,0,S,0,S,0,S,2894,,0.0,S,0.0,S,0.0,S,3.6,
+2,45,0400000US45,South Carolina,,0400000US34,New Jersey,29,Printed products,1,All modes,2017,11,,1,,1,,685,,46.4,,42.2,,44.4,,2.8,
+2,17,0400000US17,Illinois,,0400000US18,Indiana,21,Pharmaceutical products,14,"Parcel, U.S.P.S. or courier",2017,1161,,2,,0,Z,130,,31.3,,27.5,,27.1,,13.7,
+2,51,0400000US51,Virginia,,0400000US51,Virginia,31,Non-metallic mineral products,7,Water,2017,68,,239,,13,,54,,30.6,,42.8,,45.7,,3.9,
+2,27,0400000US27,Minnesota,,0400000US22,Louisiana,7,Other prepared foodstuffs and fats and oils,16,Truck and water,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,32,0400000US32,Nevada,,0400000US19,Iowa,24,Plastics and rubber,3,Truck,2017,1,,0,S,0,S,1650,,37.9,,0.0,S,0.0,S,2.4,
+2,6,0400000US06,California,,0400000US48,Texas,20,Basic chemicals,11,Air (incl truck and air),2017,0,S,0,S,0,S,2072,,0.0,S,0.0,S,0.0,S,10.4,
+2,39,0400000US39,Ohio,,0400000US34,New Jersey,0,All Commodities,16,Truck and water,2017,1020,,125,,71,,569,,44.7,,34.6,,36.1,,1.8,
+2,27,0400000US27,Minnesota,,0400000US29,Missouri,32,Base metal in primary or semi-finished forms and in finished basic shapes,13,Multiple modes,2017,0,S,0,S,0,S,651,,0.0,S,0.0,S,0.0,S,7.0,
+2,21,0400000US21,Kentucky,,0400000US15,Hawaii,29,Printed products,2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,40,0400000US40,Oklahoma,,0400000US42,Pennsylvania,17,Gasoline and aviation turbine fuel,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,6,0400000US06,California,,0400000US09,Connecticut,29,Printed products,14,"Parcel, U.S.P.S. or courier",2017,24,,0,S,0,S,2938,,32.9,,0.0,S,0.0,S,0.7,
+2,9,0400000US09,Connecticut,,0400000US23,Maine,13,"Other non-metallic minerals, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,37,0400000US37,North Carolina,,0400000US12,Florida,43,Mixed freight,4,For-hire truck,2017,375,,141,,84,,615,,39.9,,29.4,,29.1,,2.5,
+2,36,0400000US36,New York,,0400000US30,Montana,29,Printed products,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,47,0400000US47,Tennessee,,0400000US26,Michigan,28,Paper or paperboard articles,14,"Parcel, U.S.P.S. or courier",2017,0,S,2,,1,,614,,0.0,S,43.3,,41.0,,4.0,
+2,39,0400000US39,Ohio,,0400000US51,Virginia,29,Printed products,1,All modes,2017,102,,11,,5,,462,,23.8,,29.6,,29.7,,4.8,
+2,1,0400000US01,Alabama,,0400000US39,Ohio,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,734,,0.0,S,0.0,S,0.0,S,3.8,
+2,1,0400000US01,Alabama,,0400000US13,Georgia,32,Base metal in primary or semi-finished forms and in finished basic shapes,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,Z,179,,0.0,S,36.1,,40.9,,19.2,
+2,48,0400000US48,Texas,,0400000US10,Delaware,0,All Commodities,11,Air (incl truck and air),2017,0,S,0,S,0,S,1506,,0.0,S,0.0,S,0.0,S,7.3,
+2,37,0400000US37,North Carolina,,0400000US12,Florida,32,Base metal in primary or semi-finished forms and in finished basic shapes,2,Single modes,2017,209,,96,,51,,612,,33.7,,34.2,,34.7,,4.9,
+2,16,0400000US16,Idaho,,0400000US27,Minnesota,23,"Other chemical products and preparations, not elsewhere classified",3,Truck,2017,1,,0,S,0,S,1533,,46.6,,0.0,S,0.0,S,1.6,
+2,24,0400000US24,Maryland,,0400000US25,Massachusetts,30,"Textiles, leather, and articles of textiles or leather",14,"Parcel, U.S.P.S. or courier",2017,43,,2,,1,,379,,36.8,,39.7,,39.7,,3.4,
+2,18,0400000US18,Indiana,,0400000US24,Maryland,36,Motorized and other vehicles (includes parts),4,For-hire truck,2017,276,,35,,21,,696,,42.7,,34.6,,35.1,,5.5,
+2,56,0400000US56,Wyoming,,0400000US54,West Virginia,33,Articles of base metal,4,For-hire truck,2017,0,S,0,S,0,S,1424,,0.0,S,0.0,S,0.0,S,4.8,
+2,24,0400000US24,Maryland,,0400000US42,Pennsylvania,28,Paper or paperboard articles,4,For-hire truck,2017,78,,58,,6,,141,,29.6,,33.1,,38.1,,9.3,
+2,20,0400000US20,Kansas,,0400000US17,Illinois,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,8,,0,Z,0,Z,660,,25.7,,17.3,,16.6,,2.5,
+2,9,0400000US09,Connecticut,,0400000US23,Maine,27,"Pulp, newsprint, paper, and paperboard",1,All modes,2017,10,,14,,6,,338,,31.8,,39.7,,40.0,,12.9,
+2,49,0400000US49,Utah,,0400000US08,Colorado,5,"Meat, poultry, fish, seafood, and their preparations",4,For-hire truck,2017,111,,22,,12,,564,,32.1,,31.4,,32.1,,1.7,
+2,51,0400000US51,Virginia,,0400000US42,Pennsylvania,6,"Milled grain products and preparations, and bakery products",15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,9,0400000US09,Connecticut,,0400000US44,Rhode Island,8,Alcoholic beverages,4,For-hire truck,2017,0,S,0,S,0,S,111,,0.0,S,0.0,S,0.0,S,31.5,
+2,50,0400000US50,Vermont,,0400000US04,Arizona,0,All Commodities,4,For-hire truck,2017,36,,1,,3,,2629,,46.3,,40.8,,40.9,,0.4,
+2,29,0400000US29,Missouri,,0400000US55,Wisconsin,38,Precision instruments and apparatus,1,All modes,2017,29,,0,S,0,S,498,,42.6,,0.0,S,0.0,S,5.5,
+2,51,0400000US51,Virginia,,0400000US27,Minnesota,32,Base metal in primary or semi-finished forms and in finished basic shapes,13,Multiple modes,2017,0,S,0,S,0,S,1209,,0.0,S,0.0,S,0.0,S,10.5,
+2,25,0400000US25,Massachusetts,,0400000US42,Pennsylvania,32,Base metal in primary or semi-finished forms and in finished basic shapes,3,Truck,2017,65,,11,,4,,367,,24.7,,19.8,,18.7,,4.3,
+2,24,0400000US24,Maryland,,0400000US10,Delaware,18,Fuel oils,5,Company-owned truck,2017,0,S,0,S,0,S,44,,0.0,S,0.0,S,0.0,S,38.6,
+2,38,0400000US38,North Dakota,,0400000US24,Maryland,24,Plastics and rubber,3,Truck,2017,0,S,0,S,0,S,1403,,0.0,S,0.0,S,0.0,S,5.5,
+2,17,0400000US17,Illinois,,0400000US34,New Jersey,27,"Pulp, newsprint, paper, and paperboard",13,Multiple modes,2017,0,S,0,Z,0,Z,824,,0.0,S,30.6,,25.8,,6.0,
+2,4,0400000US04,Arizona,,0400000US35,New Mexico,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",13,Multiple modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,8,0400000US08,Colorado,,0400000US18,Indiana,24,Plastics and rubber,1,All modes,2017,42,,0,S,0,S,1133,,38.3,,0.0,S,0.0,S,1.9,
+2,12,0400000US12,Florida,,0400000US41,Oregon,40,Miscellaneous manufactured products,4,For-hire truck,2017,9,,0,S,0,S,2932,,41.6,,0.0,S,0.0,S,1.4,
+2,40,0400000US40,Oklahoma,,0400000US38,North Dakota,30,"Textiles, leather, and articles of textiles or leather",3,Truck,2017,0,S,0,S,0,S,1054,,0.0,S,0.0,S,0.0,S,5.9,
+2,40,0400000US40,Oklahoma,,0400000US47,Tennessee,0,All Commodities,14,"Parcel, U.S.P.S. or courier",2017,138,,2,,2,,700,,49.7,,20.5,,21.8,,2.4,
+2,41,0400000US41,Oregon,,0400000US12,Florida,30,"Textiles, leather, and articles of textiles or leather",11,Air (incl truck and air),2017,0,S,0,S,0,S,2625,,0.0,S,0.0,S,0.0,S,9.5,
+2,31,0400000US31,Nebraska,,0400000US22,Louisiana,40,Miscellaneous manufactured products,3,Truck,2017,0,S,0,S,0,S,930,,0.0,S,0.0,S,0.0,S,4.5,
+2,16,0400000US16,Idaho,,0400000US26,Michigan,36,Motorized and other vehicles (includes parts),1,All modes,2017,0,Z,0,S,0,S,1916,,40.1,,0.0,S,0.0,S,1.4,
+2,29,0400000US29,Missouri,,0400000US55,Wisconsin,0,All Commodities,15,Truck and rail,2017,21,,196,,146,,757,,24.7,,31.4,,25.5,,11.5,
+2,41,0400000US41,Oregon,,0400000US42,Pennsylvania,20,Basic chemicals,4,For-hire truck,2017,0,S,0,S,0,S,2847,,0.0,S,0.0,S,0.0,S,2.7,
+2,22,0400000US22,Louisiana,,0400000US48,Texas,40,Miscellaneous manufactured products,13,Multiple modes,2017,239,,5,,2,,415,,35.5,,45.2,,43.1,,10.6,
+2,1,0400000US01,Alabama,,0400000US45,South Carolina,40,Miscellaneous manufactured products,13,Multiple modes,2017,13,,0,Z,0,Z,359,,42.2,,30.4,,31.0,,4.1,
+2,5,0400000US05,Arkansas,,0400000US34,New Jersey,43,Mixed freight,1,All modes,2017,0,S,0,S,0,S,1236,,0.0,S,0.0,S,0.0,S,3.4,
+2,55,0400000US55,Wisconsin,,0400000US48,Texas,38,Precision instruments and apparatus,11,Air (incl truck and air),2017,0,S,0,S,0,S,1029,,0.0,S,0.0,S,0.0,S,5.4,
+2,55,0400000US55,Wisconsin,,0400000US41,Oregon,37,"Transportation equipment, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,24,0400000US24,Maryland,,0400000US54,West Virginia,20,Basic chemicals,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,28,,0.0,S,0.0,S,0.0,S,4.8,
+2,55,0400000US55,Wisconsin,,0400000US53,Washington,9,Tobacco products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,56,0400000US56,Wyoming,,0400000US19,Iowa,23,"Other chemical products and preparations, not elsewhere classified",2,Single modes,2017,1,,0,Z,0,Z,688,,23.5,,34.4,,31.5,,4.7,
+2,24,0400000US24,Maryland,,0400000US53,Washington,29,Printed products,13,Multiple modes,2017,9,,0,Z,1,,2658,,35.4,,29.5,,29.5,,2.1,
+2,20,0400000US20,Kansas,,0400000US06,California,20,Basic chemicals,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,55,0400000US55,Wisconsin,,0400000US24,Maryland,24,Plastics and rubber,2,Single modes,2017,17,,3,,2,,893,,36.0,,42.2,,42.7,,2.0,
+2,51,0400000US51,Virginia,,0400000US33,New Hampshire,38,Precision instruments and apparatus,13,Multiple modes,2017,0,S,0,S,0,S,677,,0.0,S,0.0,S,0.0,S,4.8,
+2,55,0400000US55,Wisconsin,,0400000US16,Idaho,27,"Pulp, newsprint, paper, and paperboard",1,All modes,2017,5,,4,,6,,1507,,20.3,,44.9,,45.9,,7.8,
+2,49,0400000US49,Utah,,0400000US08,Colorado,35,"Electronic and other electrical equipment and components, and office equipment",14,"Parcel, U.S.P.S. or courier",2017,62,,0,Z,0,Z,519,,44.5,,32.7,,25.9,,4.3,
+2,22,0400000US22,Louisiana,,0400000US32,Nevada,26,Wood products,15,Truck and rail,2017,16,,34,,67,,1957,,19.0,,20.7,,22.9,,3.0,
+2,10,0400000US10,Delaware,,0400000US49,Utah,30,"Textiles, leather, and articles of textiles or leather",14,"Parcel, U.S.P.S. or courier",2017,4,,0,Z,1,,2255,,39.3,,43.0,,41.3,,1.6,
+2,38,0400000US38,North Dakota,,0400000US36,New York,35,"Electronic and other electrical equipment and components, and office equipment",2,Single modes,2017,0,Z,0,Z,0,Z,1761,,6.3,,30.2,,20.4,,12.3,
+2,29,0400000US29,Missouri,,0400000US12,Florida,28,Paper or paperboard articles,13,Multiple modes,2017,45,,9,,10,,1055,,38.3,,37.6,,39.7,,5.2,
+2,39,0400000US39,Ohio,,0400000US37,North Carolina,36,Motorized and other vehicles (includes parts),13,Multiple modes,2017,104,,0,S,0,S,537,,49.6,,0.0,S,0.0,S,4.2,
+2,9,0400000US09,Connecticut,,0400000US01,Alabama,7,Other prepared foodstuffs and fats and oils,1,All modes,2017,0,S,0,S,0,S,1081,,0.0,S,0.0,S,0.0,S,1.3,
+2,17,0400000US17,Illinois,,0400000US25,Massachusetts,22,Fertilizers,4,For-hire truck,2017,0,S,0,S,0,S,1180,,0.0,S,0.0,S,0.0,S,0.0,
+2,53,0400000US53,Washington,,0400000US16,Idaho,6,"Milled grain products and preparations, and bakery products",3,Truck,2017,73,,48,,21,,341,,32.6,,35.3,,35.4,,17.0,
+2,6,0400000US06,California,,0400000US32,Nevada,26,Wood products,2,Single modes,2017,308,,254,,59,,194,,18.7,,18.7,,20.4,,9.2,
+2,13,0400000US13,Georgia,,0400000US01,Alabama,36,Motorized and other vehicles (includes parts),5,Company-owned truck,2017,402,,53,,11,,204,,29.6,,26.1,,25.7,,7.2,
+2,37,0400000US37,North Carolina,,0400000US13,Georgia,36,Motorized and other vehicles (includes parts),13,Multiple modes,2017,27,,1,,0,Z,430,,37.3,,32.8,,36.6,,16.4,
+2,1,0400000US01,Alabama,,0400000US28,Mississippi,38,Precision instruments and apparatus,1,All modes,2017,20,,0,Z,0,Z,158,,23.8,,32.6,,42.2,,14.4,
+2,17,0400000US17,Illinois,,0400000US29,Missouri,40,Miscellaneous manufactured products,14,"Parcel, U.S.P.S. or courier",2017,319,,10,,4,,402,,15.7,,27.8,,30.6,,4.0,
+2,55,0400000US55,Wisconsin,,0400000US15,Hawaii,35,"Electronic and other electrical equipment and components, and office equipment",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,Z,4898,,0.0,S,39.5,,39.6,,1.0,
+2,55,0400000US55,Wisconsin,,0400000US31,Nebraska,14,Metallic ores and concentrates,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,26,0400000US26,Michigan,,0400000US26,Michigan,18,Fuel oils,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,48,0400000US48,Texas,,0400000US05,Arkansas,11,Natural sands,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,26,0400000US26,Michigan,,0400000US24,Maryland,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",1,All modes,2017,114,,16,,11,,628,,25.7,,26.6,,26.4,,2.0,
+2,8,0400000US08,Colorado,,0400000US49,Utah,35,"Electronic and other electrical equipment and components, and office equipment",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,508,,0.0,S,0.0,S,0.0,S,2.9,
+2,17,0400000US17,Illinois,,0400000US48,Texas,21,Pharmaceutical products,4,For-hire truck,2017,390,,21,,25,,1120,,36.3,,30.3,,34.0,,2.7,
+2,55,0400000US55,Wisconsin,,0400000US04,Arizona,23,"Other chemical products and preparations, not elsewhere classified",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,S,1885,,0.0,S,49.6,,0.0,S,1.6,
+2,34,0400000US34,New Jersey,,0400000US23,Maine,23,"Other chemical products and preparations, not elsewhere classified",1,All modes,2017,37,,0,S,3,,458,,26.4,,0.0,S,46.0,,7.3,
+2,45,0400000US45,South Carolina,,0400000US21,Kentucky,21,Pharmaceutical products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,431,,0.0,S,0.0,S,0.0,S,18.2,
+2,40,0400000US40,Oklahoma,,0400000US51,Virginia,7,Other prepared foodstuffs and fats and oils,4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,47,0400000US47,Tennessee,,0400000US46,South Dakota,35,"Electronic and other electrical equipment and components, and office equipment",13,Multiple modes,2017,0,S,0,S,0,S,1071,,0.0,S,0.0,S,0.0,S,6.1,
+2,2,0400000US02,Alaska,,0400000US39,Ohio,23,"Other chemical products and preparations, not elsewhere classified",11,Air (incl truck and air),2017,0,S,0,Z,0,Z,3838,,0.0,S,32.1,,33.5,,1.7,
+2,25,0400000US25,Massachusetts,,0400000US12,Florida,34,Machinery,13,Multiple modes,2017,44,,0,Z,0,Z,1392,,24.1,,25.8,,26.6,,4.4,
+2,20,0400000US20,Kansas,,0400000US21,Kentucky,6,"Milled grain products and preparations, and bakery products",15,Truck and rail,2017,12,,33,,31,,884,,24.6,,23.6,,26.0,,2.3,
+2,48,0400000US48,Texas,,0400000US17,Illinois,17,Gasoline and aviation turbine fuel,2,Single modes,2017,1287,,0,S,2424,,1117,,48.7,,0.0,S,48.4,,4.5,
+2,48,0400000US48,Texas,,0400000US37,North Carolina,33,Articles of base metal,13,Multiple modes,2017,57,,1,,1,,1185,,38.2,,33.5,,35.0,,2.0,
+2,47,0400000US47,Tennessee,,0400000US17,Illinois,40,Miscellaneous manufactured products,14,"Parcel, U.S.P.S. or courier",2017,171,,4,,2,,550,,34.2,,17.1,,17.1,,3.4,
+2,29,0400000US29,Missouri,,0400000US13,Georgia,28,Paper or paperboard articles,2,Single modes,2017,0,S,34,,26,,789,,0.0,S,33.6,,34.5,,6.1,
+2,5,0400000US05,Arkansas,,0400000US55,Wisconsin,21,Pharmaceutical products,1,All modes,2017,0,S,0,S,0,S,757,,0.0,S,0.0,S,0.0,S,8.5,
+2,34,0400000US34,New Jersey,,0400000US23,Maine,36,Motorized and other vehicles (includes parts),3,Truck,2017,656,,0,S,0,S,543,,37.9,,0.0,S,0.0,S,10.0,
+2,42,0400000US42,Pennsylvania,,0400000US42,Pennsylvania,27,"Pulp, newsprint, paper, and paperboard",5,Company-owned truck,2017,418,,198,,10,,42,,35.6,,37.8,,36.4,,12.4,
+2,40,0400000US40,Oklahoma,,0400000US23,Maine,40,Miscellaneous manufactured products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,1855,,0.0,S,0.0,S,0.0,S,3.2,
+2,24,0400000US24,Maryland,,0400000US11,District of Columbia,35,"Electronic and other electrical equipment and components, and office equipment",14,"Parcel, U.S.P.S. or courier",2017,27,,0,Z,0,Z,28,,28.4,,34.6,,41.8,,19.4,
+2,21,0400000US21,Kentucky,,0400000US01,Alabama,15,Coal,1,All modes,2017,0,S,0,S,0,S,233,,0.0,S,0.0,S,0.0,S,37.6,
+2,8,0400000US08,Colorado,,0400000US37,North Carolina,38,Precision instruments and apparatus,11,Air (incl truck and air),2017,15,,0,Z,0,Z,1485,,42.0,,42.9,,42.1,,1.4,
+2,41,0400000US41,Oregon,,0400000US08,Colorado,30,"Textiles, leather, and articles of textiles or leather",3,Truck,2017,0,S,0,S,0,S,1259,,0.0,S,0.0,S,0.0,S,2.0,
+2,12,0400000US12,Florida,,0400000US51,Virginia,22,Fertilizers,4,For-hire truck,2017,0,S,0,S,0,S,812,,0.0,S,0.0,S,0.0,S,7.5,
+2,45,0400000US45,South Carolina,,0400000US08,Colorado,29,Printed products,1,All modes,2017,0,S,1,,1,,1601,,0.0,S,41.9,,41.5,,2.1,
+2,17,0400000US17,Illinois,,0400000US35,New Mexico,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",3,Truck,2017,1,,3,,3,,1123,,43.3,,45.4,,45.4,,0.0,
+2,31,0400000US31,Nebraska,,0400000US46,South Dakota,0,All Commodities,1,All modes,2017,2241,,1502,,343,,251,,10.3,,21.0,,11.2,,9.3,
+2,31,0400000US31,Nebraska,,0400000US30,Montana,0,All Commodities,1,All modes,2017,567,,104,,111,,856,,29.1,,17.3,,18.9,,4.5,
+2,49,0400000US49,Utah,,0400000US27,Minnesota,29,Printed products,1,All modes,2017,0,S,0,S,0,S,1285,,0.0,S,0.0,S,0.0,S,1.0,
+2,49,0400000US49,Utah,,0400000US51,Virginia,8,Alcoholic beverages,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,9,0400000US09,Connecticut,,0400000US51,Virginia,34,Machinery,13,Multiple modes,2017,11,,0,Z,0,Z,471,,48.6,,28.6,,28.7,,3.3,
+2,34,0400000US34,New Jersey,,0400000US33,New Hampshire,0,All Commodities,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,25,0400000US25,Massachusetts,,0400000US32,Nevada,23,"Other chemical products and preparations, not elsewhere classified",4,For-hire truck,2017,2,,1,,2,,2801,,13.8,,35.3,,35.5,,1.7,
+2,42,0400000US42,Pennsylvania,,0400000US45,South Carolina,13,"Other non-metallic minerals, not elsewhere classified",4,For-hire truck,2017,0,S,5,,3,,601,,0.0,S,30.1,,28.7,,7.8,
+2,28,0400000US28,Mississippi,,0400000US42,Pennsylvania,5,"Meat, poultry, fish, seafood, and their preparations",3,Truck,2017,96,,36,,36,,1029,,38.6,,37.4,,36.8,,1.6,
+2,21,0400000US21,Kentucky,,0400000US47,Tennessee,32,Base metal in primary or semi-finished forms and in finished basic shapes,7,Water,2017,41,,71,,59,,836,,9.6,,8.4,,8.4,,0.0,Z
+2,45,0400000US45,South Carolina,,0400000US56,Wyoming,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",1,All modes,2017,1,,0,S,0,S,1857,,21.6,,0.0,S,0.0,S,9.6,
+2,17,0400000US17,Illinois,,0400000US01,Alabama,32,Base metal in primary or semi-finished forms and in finished basic shapes,14,"Parcel, U.S.P.S. or courier",2017,0,S,1,,0,Z,675,,0.0,S,37.0,,34.1,,4.2,
+2,19,0400000US19,Iowa,,0400000US40,Oklahoma,11,Natural sands,1,All modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,22,0400000US22,Louisiana,,0400000US29,Missouri,37,"Transportation equipment, not elsewhere classified",1,All modes,2017,0,S,0,S,0,S,606,,0.0,S,0.0,S,0.0,S,9.8,
+2,10,0400000US10,Delaware,,0400000US10,Delaware,39,"Furniture, mattresses and mattress supports, lamps, lighting fittings, and illuminated signs",5,Company-owned truck,2017,28,,0,S,0,S,16,,47.0,,0.0,S,0.0,S,15.1,
+2,2,0400000US02,Alaska,,0400000US53,Washington,23,"Other chemical products and preparations, not elsewhere classified",13,Multiple modes,2017,0,Z,0,Z,0,Z,3353,,34.1,,21.0,,10.2,,19.7,
+2,51,0400000US51,Virginia,,0400000US09,Connecticut,23,"Other chemical products and preparations, not elsewhere classified",4,For-hire truck,2017,0,S,0,S,0,S,422,,0.0,S,0.0,S,0.0,S,5.3,
+2,5,0400000US05,Arkansas,,0400000US18,Indiana,2,Cereal grains (includes seed),4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,42,0400000US42,Pennsylvania,,0400000US44,Rhode Island,33,Articles of base metal,1,All modes,2017,47,,0,S,0,S,377,,40.4,,0.0,S,0.0,S,7.9,
+2,48,0400000US48,Texas,,0400000US06,California,34,Machinery,4,For-hire truck,2017,1841,,164,,258,,1589,,19.0,,17.6,,18.7,,1.4,
+2,41,0400000US41,Oregon,,0400000US31,Nebraska,21,Pharmaceutical products,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,56,0400000US56,Wyoming,,0400000US41,Oregon,35,"Electronic and other electrical equipment and components, and office equipment",1,All modes,2017,0,S,0,S,0,S,1049,,0.0,S,0.0,S,0.0,S,7.2,
+2,37,0400000US37,North Carolina,,0400000US32,Nevada,24,Plastics and rubber,1,All modes,2017,0,S,3,,7,,2265,,0.0,S,40.4,,39.9,,2.6,
+2,24,0400000US24,Maryland,,0400000US42,Pennsylvania,32,Base metal in primary or semi-finished forms and in finished basic shapes,15,Truck and rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,47,0400000US47,Tennessee,,0400000US36,New York,20,Basic chemicals,3,Truck,2017,45,,26,,26,,1005,,26.4,,32.3,,35.5,,4.2,
+2,53,0400000US53,Washington,,0400000US23,Maine,5,"Meat, poultry, fish, seafood, and their preparations",4,For-hire truck,2017,0,S,0,S,0,S,3299,,0.0,S,0.0,S,0.0,S,2.5,
+2,38,0400000US38,North Dakota,,0400000US48,Texas,26,Wood products,2,Single modes,2017,8,,2,,3,,1240,,32.8,,38.7,,36.6,,2.0,
+2,16,0400000US16,Idaho,,0400000US49,Utah,36,Motorized and other vehicles (includes parts),13,Multiple modes,2017,21,,1,,0,Z,403,,41.7,,45.8,,46.2,,7.2,
+2,6,0400000US06,California,,0400000US27,Minnesota,32,Base metal in primary or semi-finished forms and in finished basic shapes,13,Multiple modes,2017,0,S,0,S,0,S,1956,,0.0,S,0.0,S,0.0,S,3.7,
+2,5,0400000US05,Arkansas,,0400000US04,Arizona,36,Motorized and other vehicles (includes parts),14,"Parcel, U.S.P.S. or courier",2017,5,,0,Z,0,Z,1346,,3.9,,10.6,,11.6,,0.3,
+2,24,0400000US24,Maryland,,0400000US25,Massachusetts,23,"Other chemical products and preparations, not elsewhere classified",13,Multiple modes,2017,37,,1,,0,Z,374,,24.4,,29.2,,30.9,,5.1,
+2,18,0400000US18,Indiana,,0400000US01,Alabama,28,Paper or paperboard articles,4,For-hire truck,2017,37,,0,S,0,S,503,,39.9,,0.0,S,0.0,S,18.8,
+2,42,0400000US42,Pennsylvania,,0400000US55,Wisconsin,4,"Animal feed, eggs, honey, and other products of animal origin",3,Truck,2017,32,,19,,16,,882,,22.2,,26.9,,30.8,,6.9,
+2,42,0400000US42,Pennsylvania,,0400000US11,District of Columbia,40,Miscellaneous manufactured products,4,For-hire truck,2017,0,S,0,S,0,S,156,,0.0,S,0.0,S,0.0,S,0.7,
+2,20,0400000US20,Kansas,,0400000US48,Texas,36,Motorized and other vehicles (includes parts),11,Air (incl truck and air),2017,0,S,0,Z,0,Z,991,,0.0,S,47.2,,45.2,,2.9,
+2,15,0400000US15,Hawaii,,0400000US15,Hawaii,23,"Other chemical products and preparations, not elsewhere classified",14,"Parcel, U.S.P.S. or courier",2017,64,,0,S,0,S,66,,43.0,,0.0,S,0.0,S,24.6,
+2,35,0400000US35,New Mexico,,0400000US48,Texas,2,Cereal grains (includes seed),2,Single modes,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,13,0400000US13,Georgia,,0400000US10,Delaware,6,"Milled grain products and preparations, and bakery products",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,27,0400000US27,Minnesota,,0400000US38,North Dakota,26,Wood products,13,Multiple modes,2017,0,S,0,S,0,S,423,,0.0,S,0.0,S,0.0,S,23.2,
+2,4,0400000US04,Arizona,,0400000US48,Texas,24,Plastics and rubber,16,Truck and water,2017,0,S,0,Z,0,Z,1181,,0.0,S,3.9,,8.3,,4.7,
+2,42,0400000US42,Pennsylvania,,0400000US09,Connecticut,40,Miscellaneous manufactured products,4,For-hire truck,2017,558,,75,,16,,197,,34.5,,48.5,,43.1,,14.3,
+2,49,0400000US49,Utah,,0400000US41,Oregon,34,Machinery,2,Single modes,2017,0,S,0,S,0,S,896,,0.0,S,0.0,S,0.0,S,4.7,
+2,24,0400000US24,Maryland,,0400000US06,California,20,Basic chemicals,13,Multiple modes,2017,31,,0,S,0,S,2648,,41.1,,0.0,S,0.0,S,3.3,
+2,19,0400000US19,Iowa,,0400000US29,Missouri,30,"Textiles, leather, and articles of textiles or leather",14,"Parcel, U.S.P.S. or courier",2017,18,,0,S,0,S,297,,34.2,,0.0,S,0.0,S,5.0,
+2,47,0400000US47,Tennessee,,0400000US17,Illinois,22,Fertilizers,1,All modes,2017,0,S,0,S,0,S,606,,0.0,S,0.0,S,0.0,S,25.8,
+2,39,0400000US39,Ohio,,0400000US12,Florida,10,Monumental or building stone,3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,55,0400000US55,Wisconsin,,0400000US54,West Virginia,36,Motorized and other vehicles (includes parts),4,For-hire truck,2017,0,S,0,S,0,S,576,,0.0,S,0.0,S,0.0,S,12.3,
+2,12,0400000US12,Florida,,0400000US51,Virginia,0,All Commodities,3,Truck,2017,3678,,767,,562,,812,,24.1,,22.1,,21.6,,2.3,
+2,48,0400000US48,Texas,,0400000US53,Washington,28,Paper or paperboard articles,1,All modes,2017,3,,0,S,0,S,2078,,49.7,,0.0,S,0.0,S,0.5,
+2,32,0400000US32,Nevada,,0400000US26,Michigan,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,1,0400000US01,Alabama,,0400000US37,North Carolina,30,"Textiles, leather, and articles of textiles or leather",3,Truck,2017,213,,27,,16,,484,,21.8,,30.9,,31.5,,6.6,
+2,35,0400000US35,New Mexico,,0400000US47,Tennessee,21,Pharmaceutical products,3,Truck,2017,0,S,0,S,0,S,1216,,0.0,S,0.0,S,0.0,S,11.1,
+2,29,0400000US29,Missouri,,0400000US04,Arizona,33,Articles of base metal,3,Truck,2017,33,,0,S,0,S,1452,,31.3,,0.0,S,0.0,S,1.1,
+2,48,0400000US48,Texas,,0400000US22,Louisiana,9,Tobacco products,1,All modes,2017,69,,5,,1,,277,,28.5,,31.0,,30.2,,18.1,
+2,24,0400000US24,Maryland,,0400000US04,Arizona,20,Basic chemicals,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,55,0400000US55,Wisconsin,,0400000US22,Louisiana,24,Plastics and rubber,4,For-hire truck,2017,18,,4,,4,,1004,,29.6,,33.9,,32.5,,3.9,
+2,26,0400000US26,Michigan,,0400000US42,Pennsylvania,27,"Pulp, newsprint, paper, and paperboard",2,Single modes,2017,152,,202,,188,,637,,17.3,,20.2,,24.2,,10.5,
+2,17,0400000US17,Illinois,,0400000US40,Oklahoma,26,Wood products,2,Single modes,2017,0,S,0,S,0,Z,639,,0.0,S,0.0,S,44.5,,8.4,
+2,38,0400000US38,North Dakota,,0400000US08,Colorado,24,Plastics and rubber,1,All modes,2017,0,S,0,S,0,S,785,,0.0,S,0.0,S,0.0,S,7.9,
+2,47,0400000US47,Tennessee,,0400000US56,Wyoming,36,Motorized and other vehicles (includes parts),4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,39,0400000US39,Ohio,,0400000US25,Massachusetts,35,"Electronic and other electrical equipment and components, and office equipment",2,Single modes,2017,186,,0,S,7,,711,,33.7,,0.0,S,48.6,,1.6,
+2,29,0400000US29,Missouri,,0400000US17,Illinois,23,"Other chemical products and preparations, not elsewhere classified",3,Truck,2017,1836,,1503,,80,,0,S,22.6,,30.4,,18.2,,0.0,S
+2,13,0400000US13,Georgia,,0400000US05,Arkansas,43,Mixed freight,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,Z,0,Z,537,,0.0,S,46.6,,42.3,,16.5,
+2,44,0400000US44,Rhode Island,,0400000US06,California,0,All Commodities,13,Multiple modes,2017,428,,7,,20,,3001,,12.7,,14.7,,15.5,,0.2,
+2,28,0400000US28,Mississippi,,0400000US22,Louisiana,25,Logs and other wood in the rough,2,Single modes,2017,1,,3,,0,Z,187,,45.9,,37.2,,37.2,,0.0,
+2,44,0400000US44,Rhode Island,,0400000US06,California,35,"Electronic and other electrical equipment and components, and office equipment",13,Multiple modes,2017,54,,1,,2,,2997,,43.8,,41.6,,42.5,,0.5,
+2,33,0400000US33,New Hampshire,,0400000US33,New Hampshire,24,Plastics and rubber,4,For-hire truck,2017,72,,8,,0,Z,0,S,32.7,,30.5,,40.4,,0.0,S
+2,51,0400000US51,Virginia,,0400000US25,Massachusetts,38,Precision instruments and apparatus,14,"Parcel, U.S.P.S. or courier",2017,27,,0,S,0,S,565,,37.1,,0.0,S,0.0,S,3.3,
+2,47,0400000US47,Tennessee,,0400000US45,South Carolina,32,Base metal in primary or semi-finished forms and in finished basic shapes,1,All modes,2017,330,,191,,86,,498,,20.7,,27.1,,26.4,,8.5,
+2,25,0400000US25,Massachusetts,,0400000US47,Tennessee,24,Plastics and rubber,3,Truck,2017,52,,18,,20,,1123,,26.4,,39.5,,41.0,,3.1,
+2,25,0400000US25,Massachusetts,,0400000US01,Alabama,37,"Transportation equipment, not elsewhere classified",14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,51,0400000US51,Virginia,,0400000US27,Minnesota,33,Articles of base metal,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,1296,,0.0,S,0.0,S,0.0,S,4.9,
+2,19,0400000US19,Iowa,,0400000US19,Iowa,31,Non-metallic mineral products,6,Rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,24,0400000US24,Maryland,,0400000US09,Connecticut,24,Plastics and rubber,4,For-hire truck,2017,74,,23,,7,,312,,44.9,,40.2,,37.8,,2.6,
+2,54,0400000US54,West Virginia,,0400000US13,Georgia,24,Plastics and rubber,3,Truck,2017,35,,16,,8,,627,,26.7,,29.6,,28.7,,6.7,
+2,48,0400000US48,Texas,,0400000US34,New Jersey,29,Printed products,1,All modes,2017,27,,3,,4,,1606,,18.9,,32.4,,31.5,,1.3,
+2,46,0400000US46,South Dakota,,0400000US46,South Dakota,29,Printed products,5,Company-owned truck,2017,9,,1,,0,Z,43,,44.5,,38.0,,24.8,,34.6,
+2,27,0400000US27,Minnesota,,0400000US41,Oregon,27,"Pulp, newsprint, paper, and paperboard",2,Single modes,2017,0,S,0,Z,0,Z,1766,,0.0,S,10.4,,6.3,,5.8,
+2,34,0400000US34,New Jersey,,0400000US18,Indiana,19,"Other coal and petroleum products, not elsewhere classified",13,Multiple modes,2017,0,S,0,Z,0,Z,750,,0.0,S,9.8,,16.9,,9.3,
+2,6,0400000US06,California,,0400000US30,Montana,20,Basic chemicals,6,Rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,28,0400000US28,Mississippi,,0400000US30,Montana,20,Basic chemicals,3,Truck,2017,0,S,0,S,0,S,2018,,0.0,S,0.0,S,0.0,S,0.0,Z
+2,56,0400000US56,Wyoming,,0400000US56,Wyoming,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,17,0400000US17,Illinois,,0400000US08,Colorado,33,Articles of base metal,2,Single modes,2017,154,,34,,33,,937,,31.1,,37.5,,38.0,,1.7,
+2,37,0400000US37,North Carolina,,0400000US16,Idaho,4,"Animal feed, eggs, honey, and other products of animal origin",3,Truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,53,0400000US53,Washington,,0400000US21,Kentucky,26,Wood products,6,Rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,31,0400000US31,Nebraska,,0400000US29,Missouri,43,Mixed freight,3,Truck,2017,217,,59,,15,,207,,27.1,,32.2,,30.5,,12.6,
+2,48,0400000US48,Texas,,0400000US16,Idaho,3,"Agricultural products (excludes animal feed, cereal grains, and forage products)",13,Multiple modes,2017,0,S,0,S,0,S,1426,,0.0,S,0.0,S,0.0,S,13.0,
+2,22,0400000US22,Louisiana,,0400000US40,Oklahoma,35,"Electronic and other electrical equipment and components, and office equipment",1,All modes,2017,0,S,0,S,0,S,625,,0.0,S,0.0,S,0.0,S,5.4,
+2,56,0400000US56,Wyoming,,0400000US26,Michigan,13,"Other non-metallic minerals, not elsewhere classified",4,For-hire truck,2017,1,,5,,7,,1479,,4.9,,37.7,,32.6,,7.8,
+2,12,0400000US12,Florida,,0400000US29,Missouri,34,Machinery,2,Single modes,2017,45,,0,S,0,S,1206,,38.0,,0.0,S,0.0,S,2.8,
+2,20,0400000US20,Kansas,,0400000US31,Nebraska,0,All Commodities,11,Air (incl truck and air),2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,20,0400000US20,Kansas,,0400000US12,Florida,24,Plastics and rubber,3,Truck,2017,76,,24,,32,,1324,,34.5,,49.4,,49.8,,1.9,
+2,21,0400000US21,Kentucky,,0400000US50,Vermont,35,"Electronic and other electrical equipment and components, and office equipment",1,All modes,2017,0,S,0,S,0,S,1064,,0.0,S,0.0,S,0.0,S,7.2,
+2,25,0400000US25,Massachusetts,,0400000US04,Arizona,32,Base metal in primary or semi-finished forms and in finished basic shapes,2,Single modes,2017,27,,2,,5,,2605,,32.1,,34.0,,34.0,,0.3,
+2,44,0400000US44,Rhode Island,,0400000US41,Oregon,30,"Textiles, leather, and articles of textiles or leather",1,All modes,2017,11,,0,S,0,S,3056,,39.8,,0.0,S,0.0,S,0.5,
+2,6,0400000US06,California,,0400000US09,Connecticut,1,Animals and fish (live),1,All modes,2017,1,,0,Z,0,Z,2931,,31.8,,24.1,,24.3,,2.7,
+2,40,0400000US40,Oklahoma,,0400000US53,Washington,30,"Textiles, leather, and articles of textiles or leather",13,Multiple modes,2017,6,,0,Z,0,Z,2003,,38.3,,40.9,,39.2,,1.4,
+2,54,0400000US54,West Virginia,,0400000US54,West Virginia,23,"Other chemical products and preparations, not elsewhere classified",6,Rail,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,4,0400000US04,Arizona,,0400000US45,South Carolina,7,Other prepared foodstuffs and fats and oils,14,"Parcel, U.S.P.S. or courier",2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
+2,48,0400000US48,Texas,,0400000US21,Kentucky,29,Printed products,13,Multiple modes,2017,4,,0,Z,0,Z,954,,36.7,,41.9,,40.3,,4.7,
+2,21,0400000US21,Kentucky,,0400000US29,Missouri,24,Plastics and rubber,1,All modes,2017,225,,88,,37,,364,,15.2,,19.9,,16.8,,5.4,
+2,40,0400000US40,Oklahoma,,0400000US48,Texas,19,"Other coal and petroleum products, not elsewhere classified",5,Company-owned truck,2017,12,,16,,3,,388,,49.5,,36.1,,28.4,,19.8,
+2,5,0400000US05,Arkansas,,0400000US02,Alaska,29,Printed products,1,All modes,2017,0,S,0,S,0,S,3658,,0.0,S,0.0,S,0.0,S,1.6,
+2,10,0400000US10,Delaware,,0400000US28,Mississippi,5,"Meat, poultry, fish, seafood, and their preparations",4,For-hire truck,2017,0,S,0,S,0,S,0,S,0.0,S,0.0,S,0.0,S,0.0,S
